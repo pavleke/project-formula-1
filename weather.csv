@@ -50,7 +50,7 @@
 48,dry,"Partly cloudy, mild and dry"
 49,wet,Very heavy rain
 50,wet,Intermittent light rain
-51,"37 °c (air), 63 °c (track)","37 °C (Air), 63 °C (Track)"
+51,dry,"37 °C (Air), 63 °C (Track)"
 52,dry,"Fine, Dry and Hot"
 53,dry,"Fine, Air Temp: 33°C, Wind Speed: 1.5 m/s, Humidity: 61%"
 54,dry,Cloudy with sunny breaks. Air temperature 20°C
@@ -341,7 +341,7 @@
 339,changing,"Cloudy, rain"
 340,dry,"Mainly cloudy, dry"
 341,dry,"Mainly cloudy, dry"
-342,air: 28 to 29 °c (82 to 84 °f) track: 39 to 49 °c (102 to 120 °f),Air: 28 to 29 °C (82 to 84 °F) Track: 39 to 49 °C (102 to 120 °F)
+342,dry,Air: 28 to 29 °C (82 to 84 °F) Track: 39 to 49 °C (102 to 120 °F)
 343,dry,Warm with temperatures approaching 26 °C (79 °F); wind speeds up to 4.9 kilometres per hour (3.0 mph)
 344,dry,Dry
 345,dry,Mainly sunny
@@ -353,7 +353,9 @@
 351,dry,Sunny
 352,wet,"Rain. Air 20 °C (68 °F), Track 18 °C (64 °F)"
 353,dry,Clear; 25 °C (77 °F)
-354,,
+354,dry,"[<p>Dry<sup class=""reference"" id=""cite_ref-weather_3-0""><a href=""#cite_note-weather-3"">[3]</a></sup>
+Air Temp 28 °C (82 °F)<sup class=""reference"" id=""cite_ref-weather_3-1""><a href=""#cite_note-weather-3"">[3]</a></sup>
+</p>]"
 355,dry,"Very hot, dry, sunny"
 356,dry,"Warm, dry, sunny"
 357,dry,"Warm, dry, sunny"
@@ -794,7 +796,7 @@
 792,nan,
 793,dry,Cool and windy
 794,nan,
-795,drizzly,Drizzly
+795,wet,Drizzly
 796,dry,"Hot, dry."
 797,nan,
 798,changing,"Overcast, wet"
@@ -840,44 +842,90 @@
 838,dry,"Warm, hot and sunny"
 839,dry,"Sunny, 18°C"
 840,dry,"Cloudy, dry"
-841,,
-842,,
-843,,
+841,dry,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_1-0""><a href=""#cite_note-weather-1"">[1]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_1-1""><a href=""#cite_note-weather-1"">[1]</a></sup>
+</p>]"
+842,dry,"[<p>Sunny, Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 17 °C (63 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
+843,dry,"[<p>Mainly sunny, Fine and Dry<sup class=""reference"" id=""cite_ref-3""><a href=""#cite_note-3"">[3]</a></sup><sup class=""reference"" id=""cite_ref-weather_4-0""><a href=""#cite_note-weather-4"">[4]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_4-1""><a href=""#cite_note-weather-4"">[4]</a></sup>
+</p>]"
 844,dry,"Sunny, Fine and Dry"
 845,changing,"Wet at start, very heavy rain later, after rain stops, track drying towards the end. Temperatures up to 27 °C (81 °F); wind speeds up to 12 kilometres per hour (7.5 mph)"
-846,,
+846,dry,"[<p>Clear, Fine and Dry<sup class=""reference"" id=""cite_ref-1""><a href=""#cite_note-1"">[1]</a></sup><sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
 847,changing,Wet track at start; subsequently drying.
 848,changing,"Cloudy, (light) rain at start"
 849,changing,"Cloudy, rain showers"
 850,dry,"Cloudy, dry"
 851,dry,Mainly sunny
-852,,
-853,,
-854,,
-855,,
-856,,
-857,,
-858,,
-859,,
-860,,
-861,,
+852,dry,"[<p>Hot and humid
+</p>]"
+853,dry,"[<p>Sunny and dry
+</p>]"
+854,changing,"[<p>Dry, light rain at the start
+</p>]"
+855,dry,"[<p>Fine and Dry
+</p>]"
+856,dry,"[<p>Fine and Dry
+</p>]"
+857,dry,"[<p>Fine
+</p>]"
+858,dry,"[<p>Fine<sup class=""reference"" id=""cite_ref-weather_1-0""><a href=""#cite_note-weather-1"">[1]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_1-1""><a href=""#cite_note-weather-1"">[1]</a></sup>
+</p>]"
+859,changing,"[<p>Heavy rain clearing to cloudy and dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 26 °C (79 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
+860,dry,"[<p>Overcast but Dry<sup class=""reference"" id=""cite_ref-weather_1-0""><a href=""#cite_note-weather-1"">[1]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_1-1""><a href=""#cite_note-weather-1"">[1]</a></sup>
+</p>]"
+861,dry,"[<p>Sunny and hot<sup class=""reference"" id=""cite_ref-1""><a href=""#cite_note-1"">[1]</a></sup><sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
 862,dry,"Partially cloudy, dry: Air 23 °C (73 °F), Track 36 °C (97 °F)"
-863,,
-864,,
-865,,
+863,changing,"[<p>Fine and Dry, showers threatening at end<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 21 °C (70 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
+864,dry,"[<p>Fine, dry and warm;<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+with air temperature approaching 29 °C (84 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
+865,dry,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
 866,dry,Dry
-867,,
+867,dry,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
 868,,
-869,,
-870,,
+869,dry,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_4-0""><a href=""#cite_note-weather-4"">[4]</a></sup>
+Air Temp 23 °C (73 °F)<sup class=""reference"" id=""cite_ref-weather_4-1""><a href=""#cite_note-weather-4"">[4]</a></sup>
+</p>]"
+870,dry,"[<p>Dry and sizzlingly sunny<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+<br/>Air temp 28 °C (82 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
 871,dry,Hot and humid
-872,,
-873,,
-874,,
-875,,
+872,dry,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 23 °C (73 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
+873,dry,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_3-0""><a href=""#cite_note-weather-3"">[3]</a></sup>
+Air Temp 21 °C (70 °F)<sup class=""reference"" id=""cite_ref-weather_3-1""><a href=""#cite_note-weather-3"">[3]</a></sup>
+</p>]"
+874,dry,"[<p>Fine, Dry, a little hazy and a little dusty<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 30 °C (86 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
+875,dry,"[<p>Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 29 °C (84 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
 876,dry,Scattered clouds
-877,,
-878,,
+877,wet,"[<p>Race start: drops of rain, light rain shower getting heavier at the end.<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 19 °C (66 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
+878,dry,"[<p>Scattered Clouds, Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 18 °C (64 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]"
 879,changing,Light rain clearing to cloudy and dry
 880,dry,Cloudy
 881,dry,Sunny
@@ -1038,7 +1086,7 @@
 1036,dry,Clear
 1037,dry,"Clear, 21 °C (70 °F)"
 1038,dry,Clear
-1039,light cloud,Light cloud
+1039,dry,Light cloud
 1040,dry,Cloudy
 1041,dry,Sunny
 1042,dry,Sunny
