@@ -1,0 +1,1135 @@
+,weather,weather_main,newid,raceId,name,date
+695,Sunny with temperatures reaching up to 27 °C (81 °F),dry,804,1,Australian Grand Prix,2009-03-29
+696,"Dry start, with heavy rain and thunderstorm/",changing,805,2,Malaysian Grand Prix,2009-04-05
+697,Rain,wet,806,3,Chinese Grand Prix,2009-04-19
+698,Sunny,dry,807,4,Bahrain Grand Prix,2009-04-26
+699,"Warm, Sunny",dry,808,5,Spanish Grand Prix,2009-05-10
+700,Sunny,dry,809,6,Monaco Grand Prix,2009-05-24
+701,Sunny,dry,810,7,Turkish Grand Prix,2009-06-07
+702,"Dry, overcast",dry,811,8,British Grand Prix,2009-06-21
+703,Sunny and overcast,dry,812,9,German Grand Prix,2009-07-12
+704,Sunny,dry,813,10,Hungarian Grand Prix,2009-07-26
+705,Hot and dry with temperatures reaching up to 33 °C (91 °F),dry,814,11,European Grand Prix,2009-08-23
+706,Clear but Mild,dry,815,12,Belgian Grand Prix,2009-08-30
+707,Mainly sunny,dry,816,13,Italian Grand Prix,2009-09-13
+708,Hot and Dry,dry,817,14,Singapore Grand Prix,2009-09-27
+709,"Sunny, Dry",dry,818,15,Japanese Grand Prix,2009-10-04
+710,Partially cloudy and dry,dry,819,16,Brazilian Grand Prix,2009-10-18
+711,Dry,dry,820,17,Abu Dhabi Grand Prix,2009-11-01
+677,"Clear, dry, air temperature of 39 °C (102 °F).",dry,786,18,Australian Grand Prix,2008-03-16
+678,"Sunny, partly cloudy",dry,787,19,Malaysian Grand Prix,2008-03-23
+679,Dry,dry,788,20,Bahrain Grand Prix,2008-04-06
+680,Sunny,dry,789,21,Spanish Grand Prix,2008-04-27
+681,Sunny with temperatures reaching up to 17 °C (63 °F),dry,790,22,Turkish Grand Prix,2008-05-11
+682,"Wet, drying later.",changing,791,23,Monaco Grand Prix,2008-05-25
+683,Hot with temperatures approaching 31 °C (88 °F); wind speeds up to 8.9 kilometres per hour (5.5 mph),dry,792,24,Canadian Grand Prix,2008-06-08
+684,Dry at first; light rain in the final stages,changing,793,25,French Grand Prix,2008-06-22
+685,"Rain, later drying",changing,794,26,British Grand Prix,2008-07-06
+686,"Cloudy, later sunny",dry,795,27,German Grand Prix,2008-07-20
+687,"Sunny; Air 30–31 °C (86–88 °F), Track 40–43 °C (104–109 °F)",dry,796,28,Hungarian Grand Prix,2008-08-03
+688,Sunny,dry,797,29,European Grand Prix,2008-08-24
+689,"Cloudy, rain in last 3 laps",changing,798,30,Belgian Grand Prix,2008-09-07
+690,"Heavy rain, dry towards the end",changing,799,31,Italian Grand Prix,2008-09-14
+691,"Dry, Air Temp: 28 °C (82 °F), Wind Speed: 2.2 metres per second (7.2 ft/s), Humidity: 79%",dry,800,32,Singapore Grand Prix,2008-09-28
+692,Cloudy with temperatures reaching up to 17 °C (63 °F),dry,801,33,Japanese Grand Prix,2008-10-12
+693,Dry,dry,802,34,Chinese Grand Prix,2008-10-19
+694,"Rain at beginning and end, otherwise drying",changing,803,35,Brazilian Grand Prix,2008-11-02
+660,Clear with temperatures reaching up to 21 °C (70 °F),dry,769,36,Australian Grand Prix,2007-03-18
+661,Sunny,dry,770,37,Malaysian Grand Prix,2007-04-08
+662,"Sunny, dry, windy",dry,771,38,Bahrain Grand Prix,2007-04-15
+663,Sunny and warm,dry,772,39,Spanish Grand Prix,2007-05-13
+664,"Cloudy, air temp 24–27 °C (75–81 °F), track temp 33–42 °C (91–108 °F)",dry,773,40,Monaco Grand Prix,2007-05-27
+665,Warm with temperatures approaching 26 °C (79 °F); wind speeds up to 5.8 kilometres per hour (3.6 mph),dry,774,41,Canadian Grand Prix,2007-06-10
+666,Warm (33C/91F) and clear,dry,775,42,United States Grand Prix,2007-06-17
+667,Cloudy,dry,776,43,French Grand Prix,2007-07-01
+668,Dry and sunny,dry,777,44,British Grand Prix,2007-07-08
+669,Heavy Rain on Lap 1. Drying track at restart. Light Rain before the finish.,changing,778,45,European Grand Prix,2007-07-22
+670,"Sunny, temperatures reaching up to 27 °C (81 °F)",dry,779,46,Hungarian Grand Prix,2007-08-05
+671,Sunny,dry,780,47,Turkish Grand Prix,2007-08-26
+672,Sunny,dry,781,48,Italian Grand Prix,2007-09-09
+673,"Partly cloudy, mild and dry",dry,782,49,Belgian Grand Prix,2007-09-16
+674,Very heavy rain,wet,783,50,Japanese Grand Prix,2007-09-30
+675,Intermittent light rain,wet,784,51,Chinese Grand Prix,2007-10-07
+676,"37 °C (Air), 63 °C (Track)",dry,785,52,Brazilian Grand Prix,2007-10-21
+643,"Fine, Dry and Hot",dry,751,53,Bahrain Grand Prix,2006-03-12
+644,"Fine, Air Temp: 33°C, Wind Speed: 1.5 m/s, Humidity: 61%",dry,752,54,Malaysian Grand Prix,2006-03-19
+645,Cloudy with sunny breaks. Air temperature 20°C,dry,753,55,Australian Grand Prix,2006-04-02
+646,Sunny,dry,754,56,San Marino Grand Prix,2006-04-23
+1083,fine,dry,755,57,European Grand Prix,2006-05-07
+647,Sunny,dry,756,58,Spanish Grand Prix,2006-05-14
+648,Fine,dry,757,59,Monaco Grand Prix,2006-05-28
+649,Sunny,dry,758,60,British Grand Prix,2006-06-11
+650,Sunny and warm with temperatures reaching up to 28 °C (82 °F); wind speeds up to 4.1 kilometres per hour (2.5 mph),dry,759,61,Canadian Grand Prix,2006-06-25
+651,"Sunny, hot",dry,760,62,United States Grand Prix,2006-07-02
+652,"Sunny, warm",dry,761,63,French Grand Prix,2006-07-16
+653,"Sunny, warm",dry,762,64,German Grand Prix,2006-07-30
+654,Cool and rainy with temperatures reaching up to 20 °C (68 °F),wet,763,65,Hungarian Grand Prix,2006-08-06
+655,"Sunny, hot",dry,764,66,Turkish Grand Prix,2006-08-27
+656,Warm and sunny with temperatures reaching up to 27 °C (81 °F),dry,765,67,Italian Grand Prix,2006-09-10
+657,"Cloudy, wet track that progressively dried up.",changing,766,68,Chinese Grand Prix,2006-10-01
+658,Fine,dry,767,69,Japanese Grand Prix,2006-10-08
+659,Temperatures reaching up to 23 °C (73 °F),dry,768,70,Brazilian Grand Prix,2006-10-22
+624,"Cool, partly cloudy",dry,732,71,Australian Grand Prix,2005-03-06
+625,"Fine, Air: 34–36°C (93–97°F) and Track: 44–50°C (111–122°F)",dry,733,72,Malaysian Grand Prix,2005-03-20
+626,"Sunny, 42 °C (108 °F)",dry,734,73,Bahrain Grand Prix,2005-04-03
+627,Warm and cloudy,dry,735,74,San Marino Grand Prix,2005-04-24
+628,"Sunny, warm",dry,736,75,Spanish Grand Prix,2005-05-08
+629,Fine,dry,737,76,Monaco Grand Prix,2005-05-22
+630,"Partly cloudy, hot and dry",dry,738,77,European Grand Prix,2005-05-29
+631,Cloudy and hot with temperatures approaching 32.5 °C (90.5 °F),dry,739,78,Canadian Grand Prix,2005-06-12
+632,"Cloudy, temperatures up to 25.0 °C (77.0 °F); wind speeds up to 17.9 km/h (11.1 mph)",dry,740,79,United States Grand Prix,2005-06-19
+633,"Sunny, Air: 32 °C (90 °F), Track 53 °C (127 °F)",dry,741,80,French Grand Prix,2005-07-03
+634,"Sunny, Air: 27 °C (81 °F), Track 47 °C (117 °F)",dry,742,81,British Grand Prix,2005-07-10
+635,"Cloudy with drizzle, but staying dry during the race. Air temp: 24°C.",changing,743,82,German Grand Prix,2005-07-24
+636,"Sunny, Air: 34 °C (93 °F), Track 45 °C (113 °F)",dry,744,83,Hungarian Grand Prix,2005-07-31
+637,Sunny; 30°C Air; 45°C Track,dry,745,84,Turkish Grand Prix,2005-08-21
+638,Sunny,dry,746,85,Italian Grand Prix,2005-09-04
+639,Wet and dry,changing,747,86,Belgian Grand Prix,2005-09-11
+640,"Cloudy, dry, Air: 23 °C (73 °F), Track 22 °C (72 °F)",dry,748,87,Brazilian Grand Prix,2005-09-25
+641,Partially cloudy and dry with temperatures reaching up to 25 °C (77 °F),dry,749,88,Japanese Grand Prix,2005-10-09
+642,Sunny,dry,750,89,Chinese Grand Prix,2005-10-16
+606,Dry and cloudy,dry,714,90,Australian Grand Prix,2004-03-07
+607,"Dry, light rain at the start",changing,715,91,Malaysian Grand Prix,2004-03-21
+608,"Warm, dry and overcast",dry,716,92,Bahrain Grand Prix,2004-04-04
+609,"Clear, air temp: 22°C",dry,717,93,San Marino Grand Prix,2004-04-25
+610,Clear,dry,718,94,Spanish Grand Prix,2004-05-09
+611,Dry and sunny,dry,719,95,Monaco Grand Prix,2004-05-23
+612,"Cloudy at start, sunny later",dry,720,96,European Grand Prix,2004-05-30
+613,Clear and mild with temperatures approaching 25.0 °C (77.0 °F),dry,721,97,Canadian Grand Prix,2004-06-13
+614,Fine with temperatures reaching up to 24 °C (75 °F);,dry,722,98,United States Grand Prix,2004-06-20
+615,Sunny,dry,723,99,French Grand Prix,2004-07-04
+616,"Cloudy, Air: 17 °C (63 °F), Track 27 °C (81 °F)",dry,724,100,British Grand Prix,2004-07-11
+617,Sunny,dry,725,101,German Grand Prix,2004-07-25
+618,"Warm, dry and sunny, Air: 26 °C (79 °F), Track 42 °C (108 °F)",dry,726,102,Hungarian Grand Prix,2004-08-15
+619,Dry with temperatures reaching up to 15 °C (59 °F),dry,727,103,Belgian Grand Prix,2004-08-29
+620,"Wet track at the start, dry later on",changing,728,104,Italian Grand Prix,2004-09-12
+621,Sunny with temperatures reaching up to 27 °C (81 °F),dry,729,105,Chinese Grand Prix,2004-09-26
+622,Sunny,dry,730,106,Japanese Grand Prix,2004-10-10
+623,Dry/Wet,changing,731,107,Brazilian Grand Prix,2004-10-24
+590,"Damp at beginning, dry later, cloudy, mild",changing,698,108,Australian Grand Prix,2003-03-09
+591,"Fine, air temperature 34°C (93°F)",dry,699,109,Malaysian Grand Prix,2003-03-23
+592,Rainy: 20 °C (68 °F),wet,700,110,Brazilian Grand Prix,2003-04-06
+593,Mostly cloudy with maximum ambient temperatures reaching 13 degrees during the day.,dry,701,111,San Marino Grand Prix,2003-04-20
+594,Clear,dry,702,112,Spanish Grand Prix,2003-05-04
+595,Mostly cloudy with isolated showers in the area,changing,703,113,Austrian Grand Prix,2003-05-18
+596,"Sunny at start, cloudy later",dry,704,114,Monaco Grand Prix,2003-06-01
+597,Partly cloudy and mild with temperatures reaching a maximum of 19.3 °C (66.7 °F),dry,705,115,Canadian Grand Prix,2003-06-15
+598,Mostly cloudy with maximum ambient temperatures reaching 25 degrees celsius during the day.,dry,706,116,European Grand Prix,2003-06-29
+599,"Cloudy, Air: 26 °C (79 °F), Track 35 °C (95 °F)",dry,707,117,French Grand Prix,2003-07-06
+600,"Sunny at start, cloudy later, Air: 24 °C (75 °F), Track 29 °C (84 °F)",dry,708,118,British Grand Prix,2003-07-20
+601,Fine,dry,709,119,German Grand Prix,2003-08-03
+602,"Warm, dry and sunny, 28 °C (82 °F)",dry,710,120,Hungarian Grand Prix,2003-08-24
+603,Sunny,dry,711,121,Italian Grand Prix,2003-09-14
+604,Scattered showers with temperatures up to 20.6 °C (69.1 °F);,wet,712,122,United States Grand Prix,2003-09-28
+605,"Cloudy, Air: 22 °C (72 °F), Track 25 °C (77 °F)",dry,713,123,Japanese Grand Prix,2003-10-12
+573,"Cloudy at start, clearing to sunny skies.",dry,681,124,Australian Grand Prix,2002-03-03
+574,"Partially cloudy, hot, and dry",dry,682,125,Malaysian Grand Prix,2002-03-17
+575,"Clear, Air Temp: 30°C",dry,683,126,Brazilian Grand Prix,2002-03-31
+576,"Scattered thunderstorms, but remaining dry. Air Temp: 18°C",changing,684,127,San Marino Grand Prix,2002-04-14
+577,"Clear, Air Temp: 20°C",dry,685,128,Spanish Grand Prix,2002-04-28
+578,"Clear, Air Temp: 20°C",dry,686,129,Austrian Grand Prix,2002-05-12
+579,Fine; air temperature 22 °C (72 °F),dry,687,130,Monaco Grand Prix,2002-05-26
+580,Mostly fine and humid with temperatures reaching a maximum of 24.1 °C (75.4 °F),dry,688,131,Canadian Grand Prix,2002-06-09
+581,"Mainly Fine, Air Temp: 18°C",dry,689,132,European Grand Prix,2002-06-23
+582,"Dry/Wet, Air Temp: 21°C",changing,690,133,British Grand Prix,2002-07-07
+583,"Warm and sunny, Air Temp: 25°C",dry,691,134,French Grand Prix,2002-07-21
+584,"Fine, Air Temp: 28°C",dry,692,135,German Grand Prix,2002-07-28
+585,"Partially cloudy, hot and sunny, Air Temp: 28 °C (82 °F)",dry,693,136,Hungarian Grand Prix,2002-08-18
+586,"Cloudy, Air: 17 °C (63 °F), Track 25 °C (77 °F)",dry,694,137,Belgian Grand Prix,2002-09-01
+587,"Sunny, hot, dry 23°C",dry,695,138,Italian Grand Prix,2002-09-15
+588,Sunny with temperatures reaching up to 26.7 °C (80.1 °F);,dry,696,139,United States Grand Prix,2002-09-29
+589,"Sunny, Air: 26 °C (79 °F), Track 30 °C (86 °F)",dry,697,140,Japanese Grand Prix,2002-10-13
+556,"Cloudy, sunny later",dry,664,141,Australian Grand Prix,2001-03-04
+557,"Rain and Thunderstorms at start, dry later; Air Temp at start: 32 °C (90 °F)",changing,665,142,Malaysian Grand Prix,2001-03-18
+558,"Dry first, rain and thunderstorms later; Air temp: 25–30 °C (77–86 °F)",changing,666,143,Brazilian Grand Prix,2001-04-01
+559,"Sunny. Air Temp: 14 °C (57 °F), Track 26 °C (79 °F)",dry,667,144,San Marino Grand Prix,2001-04-15
+560,"Overcast, Mild, Dry, Air Temp: 18°C",dry,668,145,Spanish Grand Prix,2001-04-29
+561,"Sunny, Air: 18 to 19 °C (64 to 66 °F), Track 18 to 32 °C (64 to 90 °F)",dry,669,146,Austrian Grand Prix,2001-05-13
+562,"Warm and Sunny, Air Temp: 23 °C (73 °F), Track 36 to 39 °C (97 to 102 °F)",dry,670,147,Monaco Grand Prix,2001-05-27
+563,Sunny,dry,671,148,Canadian Grand Prix,2001-06-10
+564,"Sunny, mild, dry, Air Temp: 21°C",dry,672,149,European Grand Prix,2001-06-24
+565,Sunny,dry,673,150,French Grand Prix,2001-07-01
+566,"Partially cloudy, mild, dry, Air Temp: 16 °C (61 °F), Track 27 °C (81 °F)",dry,674,151,British Grand Prix,2001-07-15
+567,"Partially cloudy, very hot, dry",dry,675,152,German Grand Prix,2001-07-29
+568,"Hot, dry and partially cloudy",dry,676,153,Hungarian Grand Prix,2001-08-19
+569,"Overcast, mild, dry, Air Temp: 12 to 16 °C (54 to 61 °F)",dry,677,154,Belgian Grand Prix,2001-09-02
+570,"Sunny, partly cloudy, Air: 19 to 20 °C (66 to 68 °F), Track 26 °C (79 °F)",dry,678,155,Italian Grand Prix,2001-09-16
+571,"Sunny, cool, Air: 19–21 °C (66–70 °F);",dry,679,156,United States Grand Prix,2001-09-30
+572,"Cloudy, mild, dry, air temp: 24°C",dry,680,157,Japanese Grand Prix,2001-10-14
+539,"Sunny,",dry,647,158,Australian Grand Prix,2000-03-12
+540,"Sunny, Air: 22 °C (72 °F), Track: 35 °C (95 °F)",dry,648,159,Brazilian Grand Prix,2000-03-26
+541,"Overcast, mild, dry; 16 °C (61 °F)",dry,649,160,San Marino Grand Prix,2000-04-09
+542,"Sunny, mild, dry, Air Temp: 10 °C (50 °F)",dry,650,161,British Grand Prix,2000-04-23
+543,"Sunny, Mild, Dry",dry,651,162,Spanish Grand Prix,2000-05-07
+544,"Dry at first, rain later on, Air: 11 °C (52 °F), Track: 12 °C (54 °F)",changing,652,163,European Grand Prix,2000-05-21
+545,Sunny,dry,653,164,Monaco Grand Prix,2000-06-04
+546,"Cloudy and raining; Air 17 °C (63 °F),",changing,654,165,Canadian Grand Prix,2000-06-18
+547,"Sunny, dry, Air Temp: 27°C",dry,655,166,French Grand Prix,2000-07-02
+548,"Partially cloudy, dry",dry,656,167,Austrian Grand Prix,2000-07-16
+549,Dry/Wet,changing,657,168,German Grand Prix,2000-07-30
+550,"Partially cloudy, very hot, dry",dry,658,169,Hungarian Grand Prix,2000-08-13
+551,"Wet at start, drying, Air &amp; track temperature; 15 °C (59 °F)",changing,659,170,Belgian Grand Prix,2000-08-27
+552,Sunny with temperatures reaching up to 29 °C (84 °F),dry,660,171,Italian Grand Prix,2000-09-10
+553,"Cloudy, drying, Air 12 °C (54 °F);",dry,661,172,United States Grand Prix,2000-09-24
+554,Dry/wet,changing,662,173,Japanese Grand Prix,2000-10-08
+555,"Overcast, Very hot, Dry",dry,663,174,Malaysian Grand Prix,2000-10-22
+523,Sunny and dry with temperatures reaching up to 19 °C (66 °F),dry,631,175,Australian Grand Prix,1999-03-07
+524,"Sunny, hot, dry 25 °C (77 °F)",dry,632,176,Brazilian Grand Prix,1999-04-11
+525,"Sunny, mild, dry, 23 °C",dry,633,177,San Marino Grand Prix,1999-05-02
+526,"Sunny, hot, dry",dry,634,178,Monaco Grand Prix,1999-05-16
+527,"Cloudy, hot, dry 22 °C (72 °F)",dry,635,179,Spanish Grand Prix,1999-05-30
+528,Hot with temperatures approaching 31.0 °C (87.8 °F),dry,636,180,Canadian Grand Prix,1999-06-13
+529,"Overcast, mild, dry at first, rain later on",changing,637,181,French Grand Prix,1999-06-27
+530,"Sunny, mild, dry",dry,638,182,British Grand Prix,1999-07-11
+531,"Overcast, mild, dry",dry,639,183,Austrian Grand Prix,1999-07-25
+532,"Partially cloudy, very hot, dry",dry,640,184,German Grand Prix,1999-08-01
+533,"Partially cloudy, hot, dry, Air: 25 °C (77 °F), Track 37 °C (99 °F)",dry,641,185,Hungarian Grand Prix,1999-08-15
+534,"Partially cloudy, mild, dry",dry,642,186,Belgian Grand Prix,1999-08-29
+535,Hot and dry with temperatures reaching up to 30 °C (86 °F),dry,643,187,Italian Grand Prix,1999-09-12
+536,Wet/Dry,changing,644,188,European Grand Prix,1999-09-26
+537,"Cloudy, hot, dry",dry,645,189,Malaysian Grand Prix,1999-10-17
+538,"Overcast, mild, dry",dry,646,190,Japanese Grand Prix,1999-10-31
+507,"Clear with maximum temperatures reaching 24 degrees at the start, increasing to 30 degrees by the end of the race.",dry,615,191,Australian Grand Prix,1998-03-08
+508,"Mostly cloudy, 31 °C (88 °F)",dry,616,192,Brazilian Grand Prix,1998-03-29
+509,Cloudy with variable levels of dryness; temperatures reaching up to 19 °C (66 °F),dry,617,193,Argentine Grand Prix,1998-04-12
+510,"Sunny, 25 °C",dry,618,194,San Marino Grand Prix,1998-04-26
+511,Sunny and warm,dry,619,195,Spanish Grand Prix,1998-05-10
+512,Hot and sunny with temperatures reaching up to 22 °C (72 °F),dry,620,196,Monaco Grand Prix,1998-05-24
+513,Cool and overcast with air temperatures reaching up to 16.0 °C (60.8 °F),dry,621,197,Canadian Grand Prix,1998-06-07
+514,"Sunny, warm",dry,622,198,French Grand Prix,1998-06-28
+515,"Rain, Wet Track",wet,623,199,British Grand Prix,1998-07-12
+516,Sunny,dry,624,200,Austrian Grand Prix,1998-07-26
+517,Cloudy but dry,dry,625,201,German Grand Prix,1998-08-02
+518,"Cloudy, hot, dry; 30 °C (86 °F)",dry,626,202,Hungarian Grand Prix,1998-08-16
+519,Cold and wet with rain becoming heavier,wet,627,203,Belgian Grand Prix,1998-08-30
+520,Sunny,dry,628,204,Italian Grand Prix,1998-09-13
+521,"Cloudy, cold, dry",dry,629,205,Luxembourg Grand Prix,1998-09-27
+522,Fine,dry,630,206,Japanese Grand Prix,1998-11-01
+490,"Partly Cloudy, Dry",dry,598,207,Australian Grand Prix,1997-03-09
+491,Overcast and dry with temperatures reaching up to 23 °C (73 °F),dry,599,208,Brazilian Grand Prix,1997-03-30
+492,"Partially cloudy and dry, with temperatures reaching up to 21 °C (70 °F)",dry,600,209,Argentine Grand Prix,1997-04-13
+493,"Cloudy, Dry, 17 °C",dry,601,210,San Marino Grand Prix,1997-04-27
+494,"Overcast, cold and rain, air temperature 11 °C (52 °F)",changing,602,211,Monaco Grand Prix,1997-05-11
+495,Clear,dry,603,212,Spanish Grand Prix,1997-05-25
+496,Clear and mild with temperatures approaching 22.7 °C (72.9 °F),dry,604,213,Canadian Grand Prix,1997-06-15
+497,"Dry at first, rain in closing stages",changing,605,214,French Grand Prix,1997-06-29
+498,"Sunny, Dry Track",dry,606,215,British Grand Prix,1997-07-13
+499,"Sunny, dry track",dry,607,216,German Grand Prix,1997-07-27
+500,"Sunny, Dry Track, 27°C",dry,608,217,Hungarian Grand Prix,1997-08-10
+501,"Wet, then drying out with temperatures reaching up to 28 °C (82 °F)",changing,609,218,Belgian Grand Prix,1997-08-24
+502,Dry with temperatures reaching up to 29 °C (84 °F),dry,610,219,Italian Grand Prix,1997-09-07
+503,Sunny,dry,611,220,Austrian Grand Prix,1997-09-21
+504,"Partially cloudy, mild and dry",dry,612,221,Luxembourg Grand Prix,1997-09-28
+505,Sunny,dry,613,222,Japanese Grand Prix,1997-10-12
+506,Sunny with temperatures reaching up to 25 °C (77 °F),dry,614,223,European Grand Prix,1997-10-26
+474,Dry with temperatures reaching up to 23 °C (73 °F),dry,582,224,Australian Grand Prix,1996-03-10
+475,"Thunderstorm, then drying with temperatures reaching up to 24 °C (75 °F)",changing,583,225,Brazilian Grand Prix,1996-03-31
+476,Dry with temperatures reaching up to 21 °C (70 °F),dry,584,226,Argentine Grand Prix,1996-04-07
+477,"Cloudy, but dry",dry,585,227,European Grand Prix,1996-04-28
+478,Sunny,dry,586,228,San Marino Grand Prix,1996-05-05
+479,"Overcast, mild, wet at first, drying later, light rain at finish",changing,587,229,Monaco Grand Prix,1996-05-19
+480,Rain,wet,588,230,Spanish Grand Prix,1996-06-02
+481,Mostly sunny and warm with temperatures approaching 26 °C (79 °F),dry,589,231,Canadian Grand Prix,1996-06-16
+482,Dry,dry,590,232,French Grand Prix,1996-06-30
+483,Warm and sunny with temperatures reaching up to 25 °C (77 °F),dry,591,233,British Grand Prix,1996-07-14
+484,"Sunny, dry",dry,592,234,German Grand Prix,1996-07-28
+485,Sunny with temperatures reaching up to 27 °C (81 °F),dry,593,235,Hungarian Grand Prix,1996-08-11
+486,Overcast and dry with temperatures reaching up to 17 °C (63 °F),dry,594,236,Belgian Grand Prix,1996-08-25
+487,Dry,dry,595,237,Italian Grand Prix,1996-09-08
+488,Mostly sunny with ambient temperatures reaching 25 °C during the day.,dry,596,238,Portuguese Grand Prix,1996-09-22
+489,"Sunny, mild and dry",dry,597,239,Japanese Grand Prix,1996-10-13
+457,Overcast,dry,565,240,Brazilian Grand Prix,1995-03-26
+458,Cloudy,dry,566,241,Argentine Grand Prix,1995-04-09
+459,"Heavy rain before the start, before brightening up",wet,567,242,San Marino Grand Prix,1995-04-30
+460,Sunny,dry,568,243,Spanish Grand Prix,1995-05-14
+461,"Warm, sunny",dry,569,244,Monaco Grand Prix,1995-05-28
+462,"Cloudy at start, sunny later with temperatures reaching up to 24.3 °C (75.7 °F)",dry,570,245,Canadian Grand Prix,1995-06-11
+463,"Cloudy, light drizzle at times",changing,571,246,French Grand Prix,1995-07-02
+464,"Warm, cloudy, windy",dry,572,247,British Grand Prix,1995-07-16
+465,"Sunny, 28 °C (82 °F)",dry,573,248,German Grand Prix,1995-07-30
+466,Sunny,dry,574,249,Hungarian Grand Prix,1995-08-13
+467,"Cloudy, then heavy rain",changing,575,250,Belgian Grand Prix,1995-08-27
+468,Sunny,dry,576,251,Italian Grand Prix,1995-09-10
+469,Sunny,dry,577,252,Portuguese Grand Prix,1995-09-24
+470,"Rain, later dried out, air temperature 11 °C (52 °F)",changing,578,253,European Grand Prix,1995-10-01
+471,"Cloudy, dry",dry,579,254,Pacific Grand Prix,1995-10-22
+472,"Rain, later dried out",changing,580,255,Japanese Grand Prix,1995-10-29
+473,Sunny,dry,581,256,Australian Grand Prix,1995-11-12
+441,Sunny,dry,549,257,Brazilian Grand Prix,1994-03-27
+442,Sunny,dry,550,258,Pacific Grand Prix,1994-04-17
+443,Sunny,dry,551,259,San Marino Grand Prix,1994-05-01
+444,Sunny,dry,552,260,Monaco Grand Prix,1994-05-15
+445,Sunny,dry,553,261,Spanish Grand Prix,1994-05-29
+446,Temperatures approaching 26.3 °C (79.3 °F);,dry,554,262,Canadian Grand Prix,1994-06-12
+447,Sunny,dry,555,263,French Grand Prix,1994-07-03
+448,Sunny,dry,556,264,British Grand Prix,1994-07-10
+449,Sunny,dry,557,265,German Grand Prix,1994-07-31
+450,Sunny,dry,558,266,Hungarian Grand Prix,1994-08-14
+451,Sunny,dry,559,267,Belgian Grand Prix,1994-08-28
+452,Sunny,dry,560,268,Italian Grand Prix,1994-09-11
+453,Sunny,dry,561,269,Portuguese Grand Prix,1994-09-25
+454,Sunny,dry,562,270,European Grand Prix,1994-10-16
+455,"Heavy rain, followed by light showers",wet,563,271,Japanese Grand Prix,1994-11-06
+456,Sunny with clouds,dry,564,272,Australian Grand Prix,1994-11-13
+427,"Very hot and humid, with torrential thunderstorms. Air temp: 33 °C (91 °F)",wet,533,273,South African Grand Prix,1993-03-14
+428,Dry first then torrential rain for a short period; later drying and staying dry for the rest of the race,changing,534,274,Brazilian Grand Prix,1993-03-28
+429,"Very cold, rain with dry spells",changing,535,275,European Grand Prix,1993-04-11
+430,"Wet at start, dry later",changing,536,276,San Marino Grand Prix,1993-04-25
+431,Sunny,dry,537,277,Spanish Grand Prix,1993-05-09
+432,"Partly cloudy, mild, dry",dry,538,278,Monaco Grand Prix,1993-05-23
+433,Temperatures reaching up to 29.0 °C (84.2 °F);,dry,539,279,Canadian Grand Prix,1993-06-13
+1081,fine,dry,540,280,French Grand Prix,1993-07-04
+434,Dry,dry,541,281,British Grand Prix,1993-07-11
+435,Dry,dry,542,282,German Grand Prix,1993-07-25
+1082,fine partly cloudy,dry,543,283,Hungarian Grand Prix,1993-08-15
+436,Sunny and clear,dry,544,284,Belgian Grand Prix,1993-08-29
+437,Hot and sunny,dry,545,285,Italian Grand Prix,1993-09-12
+438,"Dry, sunny, windy",dry,546,286,Portuguese Grand Prix,1993-09-26
+439,"Dry/wet, warm, cloudy",changing,547,287,Japanese Grand Prix,1993-10-24
+440,Sunny,dry,548,288,Australian Grand Prix,1993-11-07
+411,"Hot, dry and dull",dry,517,289,South African Grand Prix,1992-03-01
+412,Scattered Clouds,dry,518,290,Mexican Grand Prix,1992-03-22
+413,Dry,dry,519,291,Brazilian Grand Prix,1992-04-05
+414,"Dry at start, wet later",changing,520,292,Spanish Grand Prix,1992-05-03
+415,Sunny,dry,521,293,San Marino Grand Prix,1992-05-17
+416,Dry,dry,522,294,Monaco Grand Prix,1992-05-31
+417,Dry with temperatures reaching up to 25 °C (77 °F);,dry,523,295,Canadian Grand Prix,1992-06-14
+418,"Dry, then raining",changing,524,296,French Grand Prix,1992-07-05
+419,Dry,dry,525,297,British Grand Prix,1992-07-12
+420,Dry,dry,526,298,German Grand Prix,1992-07-26
+421,Dry,dry,527,299,Hungarian Grand Prix,1992-08-16
+422,"Overcast, brief rain mid-race",changing,528,300,Belgian Grand Prix,1992-08-30
+423,Sunny and warm,dry,529,301,Italian Grand Prix,1992-09-13
+424,"Dry, sunny, windy",dry,530,302,Portuguese Grand Prix,1992-09-27
+425,"Dry, warm, cloudy",dry,531,303,Japanese Grand Prix,1992-10-25
+426,Cloudy,dry,532,304,Australian Grand Prix,1992-11-08
+396,Overcast,dry,501,305,United States Grand Prix,1991-03-10
+397,"Cloudy at start, rainy later. Ambient temperature: 29.4°C (85°F).",changing,502,306,Brazilian Grand Prix,1991-03-24
+398,"Wet at start, dry by finish",changing,503,307,San Marino Grand Prix,1991-04-28
+399,"Cloudy, mild, dry",dry,504,308,Monaco Grand Prix,1991-05-12
+400,Mild with temperatures approaching 25 °C (77 °F);,dry,505,309,Canadian Grand Prix,1991-06-02
+401,Mostly Cloudy,dry,506,310,Mexican Grand Prix,1991-06-16
+1080,fine,dry,507,311,French Grand Prix,1991-07-07
+402,"Hot, dry, sunny",dry,508,312,British Grand Prix,1991-07-14
+403,Hot and sunny,dry,509,313,German Grand Prix,1991-07-28
+404,"Hot dry, sunny",dry,510,314,Hungarian Grand Prix,1991-08-11
+405,Sunny and hot,dry,511,315,Belgian Grand Prix,1991-08-25
+406,Sunny and warm,dry,512,316,Italian Grand Prix,1991-09-08
+407,Sunny and warm,dry,513,317,Portuguese Grand Prix,1991-09-22
+408,"Warm and overcast, drying",dry,514,318,Spanish Grand Prix,1991-09-29
+409,"Sunny, warm",dry,515,319,Japanese Grand Prix,1991-10-20
+410,Torrential rain,wet,516,320,Australian Grand Prix,1991-11-03
+381,Cloudy and cool with temperatures reaching up to 18 °C (64 °F),dry,485,321,United States Grand Prix,1990-03-11
+382,"Hot, dry, sunny",dry,486,322,Brazilian Grand Prix,1990-03-25
+383,"Warm, dry, sunny",dry,487,323,San Marino Grand Prix,1990-05-13
+384,"Warm, dry, sunny",dry,488,324,Monaco Grand Prix,1990-05-27
+385,Warm and cloudy with temperatures approaching 19.8 °C (67.6 °F); wind speeds up to 27.8 kilometres per hour (17.3 mph),dry,489,325,Canadian Grand Prix,1990-06-10
+386,Overcast,dry,490,326,Mexican Grand Prix,1990-06-24
+387,"Hot, dry, sunny",dry,491,327,French Grand Prix,1990-07-08
+388,"Hot, dry, sunny",dry,492,328,British Grand Prix,1990-07-15
+389,"Hot, dry, sunny",dry,493,329,German Grand Prix,1990-07-29
+390,Dry,dry,494,330,Hungarian Grand Prix,1990-08-12
+391,Dry,dry,495,331,Belgian Grand Prix,1990-08-26
+392,"Hot, dry, sunny",dry,496,332,Italian Grand Prix,1990-09-09
+1079,fine,dry,497,333,Portuguese Grand Prix,1990-09-23
+393,"Dry, hot, sunny",dry,498,334,Spanish Grand Prix,1990-09-30
+394,Sunny,dry,499,335,Japanese Grand Prix,1990-10-21
+395,Sunny,dry,500,336,Australian Grand Prix,1990-11-04
+712,Sunny,dry,821,337,Bahrain Grand Prix,2010-03-14
+713,Overcast with light rain at start,changing,822,338,Australian Grand Prix,2010-03-28
+714,"Mainly cloudy, dry",dry,823,339,Malaysian Grand Prix,2010-04-04
+715,"Cloudy, rain",changing,824,340,Chinese Grand Prix,2010-04-18
+716,"Mainly cloudy, dry",dry,825,341,Spanish Grand Prix,2010-05-09
+717,"Mainly cloudy, dry",dry,826,342,Monaco Grand Prix,2010-05-16
+718,Air: 28 to 29 °C (82 to 84 °F) Track: 39 to 49 °C (102 to 120 °F),dry,827,343,Turkish Grand Prix,2010-05-30
+719,Warm with temperatures approaching 26 °C (79 °F); wind speeds up to 4.9 kilometres per hour (3.0 mph),dry,828,344,Canadian Grand Prix,2010-06-13
+720,Dry,dry,829,345,European Grand Prix,2010-06-27
+721,Mainly sunny,dry,830,346,British Grand Prix,2010-07-11
+722,"Mainly cloudy, dry",dry,831,347,German Grand Prix,2010-07-25
+723,Mainly sunny,dry,832,348,Hungarian Grand Prix,2010-08-01
+724,Intermittent rain,wet,833,349,Belgian Grand Prix,2010-08-29
+725,Sunny,dry,834,350,Italian Grand Prix,2010-09-12
+726,"Clear; Air temp 29 to 30 °C (84 to 86 °F), Track temp 31 °C (88 °F)",dry,835,351,Singapore Grand Prix,2010-09-26
+727,Sunny,dry,836,352,Japanese Grand Prix,2010-10-10
+728,"Rain. Air 20 °C (68 °F), Track 18 °C (64 °F)",wet,837,353,Korean Grand Prix,2010-10-24
+729,Clear; 25 °C (77 °F),dry,838,354,Brazilian Grand Prix,2010-11-07
+730,"[<p>Dry<sup class=""reference"" id=""cite_ref-weather_3-0""><a href=""#cite_note-weather-3"">[3]</a></sup>
+Air Temp 28 °C (82 °F)<sup class=""reference"" id=""cite_ref-weather_3-1""><a href=""#cite_note-weather-3"">[3]</a></sup>
+</p>]",dry,839,355,Abu Dhabi Grand Prix,2010-11-14
+365,"Very hot, dry, sunny",dry,469,356,Brazilian Grand Prix,1989-03-26
+366,"Warm, dry, sunny",dry,470,357,San Marino Grand Prix,1989-04-23
+367,"Warm, dry, sunny",dry,471,358,Monaco Grand Prix,1989-05-07
+368,"Hot, dry, partly sunny 25°C/79°F, 40% Humidity, wind NW-10mph",dry,472,359,Mexican Grand Prix,1989-05-28
+369,"Hot, sunny; temperature up to maximum of 38.3 °C (100.9 °F)",dry,473,360,United States Grand Prix,1989-06-04
+370,Cool and rainy with temperatures approaching 24 °C (75 °F); wind speeds up to 17.9 kilometres per hour (11.1 mph),wet,474,361,Canadian Grand Prix,1989-06-18
+371,"Hot, dry, sunny",dry,475,362,French Grand Prix,1989-07-09
+372,"Warm, dry, sunny",dry,476,363,British Grand Prix,1989-07-16
+373,"Warm, cloudy",dry,477,364,German Grand Prix,1989-07-30
+374,Cloudy,dry,478,365,Hungarian Grand Prix,1989-08-13
+375,"Wet, cloudy, cool",changing,479,366,Belgian Grand Prix,1989-08-27
+376,"Hot, dry, sunny",dry,480,367,Italian Grand Prix,1989-09-10
+377,"Hot, dry, sunny",dry,481,368,Portuguese Grand Prix,1989-09-24
+378,"Dry, hot, sunny",dry,482,369,Spanish Grand Prix,1989-10-01
+379,"Dry, warm, cloudy",dry,483,370,Japanese Grand Prix,1989-10-22
+380,"Wet, cool",wet,484,371,Australian Grand Prix,1989-11-05
+349,Cloudy and hot,dry,453,372,Brazilian Grand Prix,1988-04-03
+350,"Sunny, warm",dry,454,373,San Marino Grand Prix,1988-05-01
+351,Warm and dry,dry,455,374,Monaco Grand Prix,1988-05-15
+352,Sunny and hot,dry,456,375,Mexican Grand Prix,1988-05-29
+353,Sunny and hot with temperatures up to 29 °C (84 °F); wind speeds up to 19 kilometres per hour (12 mph),dry,457,376,Canadian Grand Prix,1988-06-12
+354,Warm and sunny with temperatures up to 91.9 °F (33.3 °C); wind speeds up to 11.1 miles per hour (17.9 km/h),dry,458,377,Detroit Grand Prix,1988-06-19
+355,Sunny and hot,dry,459,378,French Grand Prix,1988-07-03
+356,Wet and cool,wet,460,379,British Grand Prix,1988-07-10
+357,Wet and cool,wet,461,380,German Grand Prix,1988-07-24
+358,Sunny and hot,dry,462,381,Hungarian Grand Prix,1988-08-07
+359,"Warm, dry and overcast",dry,463,382,Belgian Grand Prix,1988-08-28
+360,Sunny and hot,dry,464,383,Italian Grand Prix,1988-09-11
+361,Sunny and hot,dry,465,384,Portuguese Grand Prix,1988-09-25
+362,Sunny and hot,dry,466,385,Spanish Grand Prix,1988-10-02
+363,"Cool and mainly dry, some rain toward the end",changing,467,386,Japanese Grand Prix,1988-10-30
+364,Cloudy and hot,dry,468,387,Australian Grand Prix,1988-11-13
+334,Sunny,dry,437,388,Brazilian Grand Prix,1987-04-12
+335,"Sunny, warm",dry,438,389,San Marino Grand Prix,1987-05-03
+336,Cloudy and cool,dry,439,390,Belgian Grand Prix,1987-05-17
+337,Sunny and warm,dry,440,391,Monaco Grand Prix,1987-05-31
+338,Clear with rain showers later on; temperatures reaching up to 78.1 °F (25.6 °C); wind speeds up to 19.6 miles per hour (31.5 km/h),changing,441,392,Detroit Grand Prix,1987-06-21
+339,Sunny and hot,dry,442,393,French Grand Prix,1987-07-05
+340,Sunny and warm,dry,443,394,British Grand Prix,1987-07-12
+1078,fine,dry,444,395,German Grand Prix,1987-07-26
+341,Dry,dry,445,396,Hungarian Grand Prix,1987-08-09
+342,Dry,dry,446,397,Austrian Grand Prix,1987-08-16
+343,Dry,dry,447,398,Italian Grand Prix,1987-09-06
+344,Dry,dry,448,399,Portuguese Grand Prix,1987-09-20
+345,Sunny and hot,dry,449,400,Spanish Grand Prix,1987-09-27
+346,Sunny and hot,dry,450,401,Mexican Grand Prix,1987-10-18
+347,Dry,dry,451,402,Japanese Grand Prix,1987-11-01
+348,Sunny,dry,452,403,Australian Grand Prix,1987-11-15
+319,"Hot, dry and sunny",dry,421,404,Brazilian Grand Prix,1986-03-23
+320,"Warm, dry and sunny",dry,422,405,Spanish Grand Prix,1986-04-13
+321,"Overcast, warm",dry,423,406,San Marino Grand Prix,1986-04-27
+322,"Sunny, mild, dry",dry,424,407,Monaco Grand Prix,1986-05-11
+323,Dry,dry,425,408,Belgian Grand Prix,1986-05-25
+324,Dry with temperatures approaching 25 °C (77 °F); wind speeds up to 20.5 km/h (12.7 mph),dry,426,409,Canadian Grand Prix,1986-06-15
+325,Cloudy and hot with temperatures reaching up to 91 °F (33 °C); wind speeds up to 23 miles per hour (37 km/h),dry,427,410,Detroit Grand Prix,1986-06-22
+326,Dry,dry,428,411,French Grand Prix,1986-07-06
+327,Sunny,dry,429,412,British Grand Prix,1986-07-13
+328,Dry,dry,430,413,German Grand Prix,1986-07-27
+1077,fine,dry,431,414,Hungarian Grand Prix,1986-08-10
+329,Dry,dry,432,415,Austrian Grand Prix,1986-08-17
+330,Dry,dry,433,416,Italian Grand Prix,1986-09-07
+331,Dry,dry,434,417,Portuguese Grand Prix,1986-09-21
+332,Sunny and hot,dry,435,418,Mexican Grand Prix,1986-10-12
+333,Sunny,dry,436,419,Australian Grand Prix,1986-10-26
+305,"Dry, 34 °C (93 °F) air temperature",dry,405,420,Brazilian Grand Prix,1985-04-07
+306,"Overcast, Cold, Rain",changing,406,421,Portuguese Grand Prix,1985-04-21
+1075,fine,dry,407,422,San Marino Grand Prix,1985-05-05
+307,Dry,dry,408,423,Monaco Grand Prix,1985-05-19
+308,Sunny with temperatures approaching 20.5 °C (68.9 °F); wind speeds up to 12.9 kilometres per hour (8.0 mph),dry,409,424,Canadian Grand Prix,1985-06-16
+309,Clear and cool with temperatures reaching up to 80.1 °F (26.7 °C); wind speeds up to 23 miles per hour (37 km/h),dry,410,425,Detroit Grand Prix,1985-06-23
+310,"Dry, hot",dry,411,426,French Grand Prix,1985-07-07
+311,"Cool, overcast",dry,412,427,British Grand Prix,1985-07-21
+312,Dry,dry,413,428,German Grand Prix,1985-08-04
+313,Dry,dry,414,429,Austrian Grand Prix,1985-08-18
+314,Sunny,dry,415,430,Dutch Grand Prix,1985-08-25
+315,Dry,dry,416,431,Italian Grand Prix,1985-09-08
+316,"Wet/Dry, drying up in later stages",changing,417,432,Belgian Grand Prix,1985-09-15
+1076,"cloudy, rain later",dry,418,433,European Grand Prix,1985-10-06
+317,Dry,dry,419,434,South African Grand Prix,1985-10-19
+318,Sunny,dry,420,435,Australian Grand Prix,1985-11-03
+292,Dry,dry,389,436,Brazilian Grand Prix,1984-03-25
+293,Dry,dry,390,437,South African Grand Prix,1984-04-07
+1072,fine,dry,391,438,Belgian Grand Prix,1984-04-29
+1073,fine,dry,392,439,San Marino Grand Prix,1984-05-06
+294,Dry,dry,393,440,French Grand Prix,1984-05-20
+295,Heavy rain and spray,wet,394,441,Monaco Grand Prix,1984-06-03
+296,Dry with temperatures approaching 26 °C (79 °F); wind speeds up to 12.9 kilometres per hour (8.0 mph),dry,395,442,Canadian Grand Prix,1984-06-17
+297,Sunny and warm with temperatures reaching up to 77.9 °F (25.5 °C); wind speeds up to 11.3 miles per hour (18.2 km/h),dry,396,443,Detroit Grand Prix,1984-06-24
+298,Sunny with temperatures reaching up to 100 °F (38 °C); wind speeds approaching speeds up to 14 miles per hour (23 km/h),dry,397,444,Dallas Grand Prix,1984-07-08
+1074,fine,dry,398,445,British Grand Prix,1984-07-22
+299,Dry,dry,399,446,German Grand Prix,1984-08-05
+300,Dry,dry,400,447,Austrian Grand Prix,1984-08-19
+301,Sunny,dry,401,448,Dutch Grand Prix,1984-08-26
+302,Dry,dry,402,449,Italian Grand Prix,1984-09-09
+303,Sunny,dry,403,450,European Grand Prix,1984-10-07
+304,Dry,dry,404,451,Portuguese Grand Prix,1984-10-21
+280,Dry,dry,374,452,Brazilian Grand Prix,1983-03-13
+281,Sunny and warm with temperatures reaching up to 65.8 °F (18.8 °C); wind speeds approaching speeds up to 9.9 miles per hour (15.9 km/h),dry,375,453,United States Grand Prix West,1983-03-27
+282,"Dry, grey and cool",dry,376,454,French Grand Prix,1983-04-17
+1069,fine,dry,377,455,San Marino Grand Prix,1983-05-01
+283,Wet track at the start,wet,378,456,Monaco Grand Prix,1983-05-15
+1070,"cloudy, fine later",changing,379,457,Belgian Grand Prix,1983-05-22
+284,Sunny and warm with temperatures reaching up to 76.8 °F (24.9 °C); wind speeds up to 11.3 miles per hour (18.2 km/h),dry,380,458,Detroit Grand Prix,1983-06-05
+285,Warm with temperatures approaching 30 °C (86 °F); wind speeds up to 15 kilometres per hour (9.3 mph),dry,381,459,Canadian Grand Prix,1983-06-12
+1071,fine,dry,382,460,British Grand Prix,1983-07-16
+286,Dry,dry,383,461,German Grand Prix,1983-08-07
+287,Dry,dry,384,462,Austrian Grand Prix,1983-08-14
+288,Cloudy,dry,385,463,Dutch Grand Prix,1983-08-28
+289,Dry,dry,386,464,Italian Grand Prix,1983-09-11
+290,Dry,dry,387,465,European Grand Prix,1983-09-25
+291,Dry,dry,388,466,South African Grand Prix,1983-10-15
+267,Dry,dry,358,467,South African Grand Prix,1982-01-23
+268,Dry,dry,359,468,Brazilian Grand Prix,1982-03-21
+269,Clear and warm with temperatures reaching up to 63.9 °F (17.7 °C); wind speeds approaching speeds up to 11.8 miles per hour (19.0 km/h),dry,360,469,United States Grand Prix West,1982-04-04
+1066,fine partly rain,dry,361,470,San Marino Grand Prix,1982-04-25
+270,Cold with air temperatures reaching up to 13 °C (55 °F),dry,362,471,Belgian Grand Prix,1982-05-09
+271,"Dry, then Wet",changing,363,472,Monaco Grand Prix,1982-05-23
+272,Sunny and warm with temperatures reaching up to 72 °F (22 °C); wind speeds up to 16.1 miles per hour (25.9 km/h),dry,364,473,Detroit Grand Prix,1982-06-06
+273,Overcast and chilly,dry,365,474,Canadian Grand Prix,1982-06-13
+274,Cloudy,dry,366,475,Dutch Grand Prix,1982-07-03
+1067,fine partly cloudy,dry,367,476,British Grand Prix,1982-07-18
+275,Dry,dry,368,477,French Grand Prix,1982-07-25
+276,Dry,dry,369,478,German Grand Prix,1982-08-08
+277,"Sunny, hot",dry,370,479,Austrian Grand Prix,1982-08-15
+1068,fine,dry,371,480,Swiss Grand Prix,1982-08-29
+278,Dry,dry,372,481,Italian Grand Prix,1982-09-12
+279,Sunny with temperatures reaching up to 98.8 °F (37.1 °C); wind speeds approaching speeds up to 18.1 miles per hour (29.1 km/h),dry,373,482,Caesars Palace Grand Prix,1982-09-25
+252,Sunny and warm with temperatures reaching up to 71.1 °F (21.7 °C); wind speeds approaching 10.9 miles per hour (17.5 km/h),dry,343,483,United States Grand Prix West,1981-03-15
+253,"Overcast, Fresh, Rain",changing,344,484,Brazilian Grand Prix,1981-03-29
+254,"Sunny, dry",dry,345,485,Argentine Grand Prix,1981-04-12
+255,"Rain, cold",wet,346,486,San Marino Grand Prix,1981-05-03
+256,"Dry, then wet at the end",changing,347,487,Belgian Grand Prix,1981-05-17
+257,Dry,dry,348,488,Monaco Grand Prix,1981-05-31
+258,"Sunny, hot",dry,349,489,Spanish Grand Prix,1981-06-21
+259,"Dry, then wet at half distance, then dry again",changing,350,490,French Grand Prix,1981-07-05
+260,Dry,dry,351,491,British Grand Prix,1981-07-18
+261,Wet / Dry,changing,352,492,German Grand Prix,1981-08-02
+262,"Mild, Dry",dry,353,493,Austrian Grand Prix,1981-08-16
+263,"Sunny, dry",dry,354,494,Dutch Grand Prix,1981-08-30
+264,Dry and sunny,dry,355,495,Italian Grand Prix,1981-09-13
+265,Wet and cold with temperatures up to 20 °C (68 °F); wind speeds up to 15 kilometres per hour (9.3 mph),wet,356,496,Canadian Grand Prix,1981-09-27
+266,Sunny with temperatures reaching up to 75 °F (24 °C); wind speeds approaching speeds up to 11.1 miles per hour (17.9 km/h),dry,357,497,Caesars Palace Grand Prix,1981-10-17
+240,"Sunny, Very hot, Dry",dry,329,498,Argentine Grand Prix,1980-01-13
+241,Dry,dry,330,499,Brazilian Grand Prix,1980-01-27
+242,Dry,dry,331,500,South African Grand Prix,1980-03-01
+243,Sunny and warm with temperatures reaching up to 81 °F (27 °C); wind speeds up to 10.9 miles per hour (17.5 km/h),dry,332,501,United States Grand Prix West,1980-03-30
+1064,fine,dry,333,502,Belgian Grand Prix,1980-05-04
+244,"Dry at the start, damp in the end",changing,334,503,Monaco Grand Prix,1980-05-18
+245,Dry,dry,335,504,French Grand Prix,1980-06-29
+1065,cloudy partly sunny,changing,336,505,British Grand Prix,1980-07-13
+246,"Overcast, Dry",dry,337,506,German Grand Prix,1980-08-10
+247,"Mild, Dry",dry,338,507,Austrian Grand Prix,1980-08-17
+248,"Sunny, Mild, Dry",dry,339,508,Dutch Grand Prix,1980-08-31
+249,"Sunny, Mild, Dry",dry,340,509,Italian Grand Prix,1980-09-14
+250,Cold and dry with temperatures reaching up to 11 °C (52 °F); wind speeds up to 15.9 kilometres per hour (9.9 mph),dry,341,510,Canadian Grand Prix,1980-09-28
+251,Cloudy and dry with temperatures reaching up to 12 °C (54 °F);,dry,342,511,United States Grand Prix,1980-10-05
+227,Dry,dry,314,512,Argentine Grand Prix,1979-01-21
+228,Dry,dry,315,513,Brazilian Grand Prix,1979-02-04
+229,Wet,wet,316,514,South African Grand Prix,1979-03-03
+230,Sunny and warm with temperatures reaching up to 66 °F (19 °C); winds gusting up to 8 miles per hour (13 km/h),dry,317,515,United States Grand Prix West,1979-04-08
+231,Dry,dry,318,516,Spanish Grand Prix,1979-04-29
+1062,fine,dry,319,517,Belgian Grand Prix,1979-05-13
+232,Dry,dry,320,518,Monaco Grand Prix,1979-05-27
+1063,fine,dry,321,519,French Grand Prix,1979-07-01
+233,Dry,dry,322,520,British Grand Prix,1979-07-14
+234,Dry,dry,323,521,German Grand Prix,1979-07-29
+235,Dry,dry,324,522,Austrian Grand Prix,1979-08-12
+236,Dry,dry,325,523,Dutch Grand Prix,1979-08-26
+237,Dry and sunny,dry,326,524,Italian Grand Prix,1979-09-09
+238,"Partially cloudy, mild and dry with temperatures reaching up to 21 °C (70 °F); wind speeds up to 18.3 kilometres per hour (11.4 mph)",dry,327,525,Canadian Grand Prix,1979-09-30
+239,Rain with temperatures reaching a maximum of 15 °C (59 °F);,wet,328,526,United States Grand Prix,1979-10-07
+212,Dry,dry,298,527,Argentine Grand Prix,1978-01-15
+213,"Very hot and humid, 100.4°F (38°C)",dry,299,528,Brazilian Grand Prix,1978-01-29
+214,Dry,dry,300,529,South African Grand Prix,1978-03-04
+215,Scattered clouds ,dry,301,530,United States Grand Prix West,1978-04-02
+216,Dry,dry,302,531,Monaco Grand Prix,1978-05-07
+1061,fine,dry,303,532,Belgian Grand Prix,1978-05-21
+217,Dry,dry,304,533,Spanish Grand Prix,1978-06-04
+218,Sunny and warm,dry,305,534,Swedish Grand Prix,1978-06-17
+219,Dry,dry,306,535,French Grand Prix,1978-07-02
+220,Dry,dry,307,536,British Grand Prix,1978-07-16
+221,Dry,dry,308,537,German Grand Prix,1978-07-30
+222,Wet,wet,309,538,Austrian Grand Prix,1978-08-13
+223,Dry,dry,310,539,Dutch Grand Prix,1978-08-27
+224,Sunny,dry,311,540,Italian Grand Prix,1978-09-10
+225,"Cloudy, dry",dry,312,541,United States Grand Prix,1978-10-01
+226,Mostly cloudy,dry,313,542,Canadian Grand Prix,1978-10-08
+198,Dry,dry,281,543,Argentine Grand Prix,1977-01-09
+199,Dry,dry,282,544,Brazilian Grand Prix,1977-01-23
+200,Sunny,dry,283,545,South African Grand Prix,1977-03-05
+201,Sunny with temperatures reaching up to 68 °F (20 °C); winds gusting up to 10.9 miles per hour (17.5 km/h),dry,284,546,United States Grand Prix West,1977-04-03
+1058,fine,dry,285,547,Spanish Grand Prix,1977-05-08
+202,Dry,dry,286,548,Monaco Grand Prix,1977-05-22
+1059,fine,dry,287,549,Belgian Grand Prix,1977-06-05
+203,Dry,dry,288,550,Swedish Grand Prix,1977-06-19
+1060,fine,dry,289,551,French Grand Prix,1977-07-03
+204,Sunny,dry,290,552,British Grand Prix,1977-07-16
+205,Dry,dry,291,553,German Grand Prix,1977-07-31
+206,"Wet, then drying",changing,292,554,Austrian Grand Prix,1977-08-14
+207,Dry,dry,293,555,Dutch Grand Prix,1977-08-28
+208,Dry,dry,294,556,Italian Grand Prix,1977-09-11
+209,Rain with temperatures reaching up to 17 °C (63 °F);,wet,295,557,United States Grand Prix,1977-10-02
+210,Cold with temperatures approaching 12 °C (54 °F); wind speeds up to 12.8 kilometres per hour (8.0 mph),dry,296,558,Canadian Grand Prix,1977-10-09
+211,Dry,dry,297,559,Japanese Grand Prix,1977-10-23
+187,Sunny,dry,265,560,Brazilian Grand Prix,1976-01-25
+188,Sunny,dry,266,561,South African Grand Prix,1976-03-06
+189,Hot and sunny with temperatures reaching up to 70 °F (21 °C); wind speeds approaching speeds up to 15 miles per hour (24 km/h),dry,267,562,United States Grand Prix West,1976-03-28
+1053,fine,dry,268,563,Spanish Grand Prix,1976-05-02
+1054,fine,dry,269,564,Belgian Grand Prix,1976-05-16
+190,Dry,dry,270,565,Monaco Grand Prix,1976-05-30
+191,Dry,dry,271,566,Swedish Grand Prix,1976-06-13
+1055,fine,dry,272,567,French Grand Prix,1976-07-04
+192,Dry,dry,273,568,British Grand Prix,1976-07-18
+193,"Rain at start, later drying",changing,274,569,German Grand Prix,1976-08-01
+1056,fine,dry,275,570,Austrian Grand Prix,1976-08-15
+194,"Warm, dry",dry,276,571,Dutch Grand Prix,1976-08-29
+1057,fine,dry,277,572,Italian Grand Prix,1976-09-12
+195,Mild with temperatures approaching 22 °C (72 °F); wind speeds up to 8.9 kilometres per hour (5.5 mph),dry,278,573,Canadian Grand Prix,1976-10-03
+196,Sunny with temperatures reaching up to 16 °C (61 °F);,dry,279,574,United States Grand Prix,1976-10-10
+197,"Very wet and misty, eventually drying",changing,280,575,Japanese Grand Prix,1976-10-24
+177,Hot and sunny,dry,251,576,Argentine Grand Prix,1975-01-12
+1049,fine,dry,252,577,Brazilian Grand Prix,1975-01-26
+178,Sunny,dry,253,578,South African Grand Prix,1975-03-01
+179,Sunny,dry,254,579,Spanish Grand Prix,1975-04-27
+180,"Rain, later drying",changing,255,580,Monaco Grand Prix,1975-05-11
+1050,fine,dry,256,581,Belgian Grand Prix,1975-05-25
+1051,fine,dry,257,582,Swedish Grand Prix,1975-06-08
+181,"Wet, drying later",changing,258,583,Dutch Grand Prix,1975-06-22
+182,Dry and sunny,dry,259,584,French Grand Prix,1975-07-06
+183,"Sunny, then overcast, then heavy rain",changing,260,585,British Grand Prix,1975-07-19
+184,Dry and sunny,dry,261,586,German Grand Prix,1975-08-03
+185,Heavy rain,wet,262,587,Austrian Grand Prix,1975-08-17
+1052,"rain, fine later",changing,263,588,Italian Grand Prix,1975-09-07
+186,Partly sunny with temperatures reaching a maximum of 20.6 °C (69.1 °F);,dry,264,589,United States Grand Prix,1975-10-05
+173,Hot and sunny,dry,236,590,Argentine Grand Prix,1974-01-13
+174,"Hot and partially cloudy in the first phase, then seasonal monsoon later.",dry,237,591,Brazilian Grand Prix,1974-01-27
+1038,"rain, fine later",changing,238,592,South African Grand Prix,1974-03-30
+1039,"rain, fine later",changing,239,593,Spanish Grand Prix,1974-04-28
+1040,fine,dry,240,594,Belgian Grand Prix,1974-05-12
+1041,fine,dry,241,595,Monaco Grand Prix,1974-05-26
+1042,fine,dry,242,596,Swedish Grand Prix,1974-06-09
+1043,fine,dry,243,597,Dutch Grand Prix,1974-06-23
+1044,fine,dry,244,598,French Grand Prix,1974-07-07
+1045,fine,dry,245,599,British Grand Prix,1974-07-20
+175,"Overcast, showers",changing,246,600,German Grand Prix,1974-08-04
+1046,cloudy partly sunny,dry,247,601,Austrian Grand Prix,1974-08-18
+1047,fine,dry,248,602,Italian Grand Prix,1974-09-08
+1048,fine partly cloudy,dry,249,603,Canadian Grand Prix,1974-09-22
+176,"Clear, warm",dry,250,604,United States Grand Prix,1974-10-06
+1031,fine,dry,221,605,Argentine Grand Prix,1973-01-28
+165,Sunny and hot,dry,222,606,Brazilian Grand Prix,1973-02-11
+166,"Sunny, Hot, Dry",dry,223,607,South African Grand Prix,1973-03-03
+1032,fine,dry,224,608,Spanish Grand Prix,1973-04-29
+167,"Warm, dry",dry,225,609,Belgian Grand Prix,1973-05-20
+1033,fine,dry,226,610,Monaco Grand Prix,1973-06-03
+1034,fine,dry,227,611,Swedish Grand Prix,1973-06-17
+1035,fine,dry,228,612,French Grand Prix,1973-07-01
+168,Dry,dry,229,613,British Grand Prix,1973-07-14
+169,Dry,dry,230,614,Dutch Grand Prix,1973-07-29
+170,Dry,dry,231,615,German Grand Prix,1973-08-05
+1036,fine partly cloudy,dry,232,616,Austrian Grand Prix,1973-08-19
+1037,fine,dry,233,617,Italian Grand Prix,1973-09-09
+171,Mild with temperatures approaching 22.2 °C (72.0 °F); wind speeds up to 11.8 kilometres per hour (7.3 mph),dry,234,618,Canadian Grand Prix,1973-09-23
+172,Cloudy with temperatures approaching 20 °C (68 °F);,dry,235,619,United States Grand Prix,1973-10-07
+1026,rain,wet,209,620,Argentine Grand Prix,1972-01-23
+158,"Sunny, Hot, Dry",dry,210,621,South African Grand Prix,1972-03-04
+1027,fine,dry,211,622,Spanish Grand Prix,1972-05-01
+159,Wet,wet,212,623,Monaco Grand Prix,1972-05-14
+1028,rain,wet,213,624,Belgian Grand Prix,1972-06-04
+1029,fine,dry,214,625,French Grand Prix,1972-07-02
+160,"Warm, dry",dry,215,626,British Grand Prix,1972-07-15
+1030,fine,dry,216,627,German Grand Prix,1972-07-30
+161,"Sunny, hot",dry,217,628,Austrian Grand Prix,1972-08-13
+162,Dry and sunny,dry,218,629,Italian Grand Prix,1972-09-10
+163,Mild with temperatures approaching 22.8 °C (73.0 °F); wind speeds up to 12 kilometres per hour (7.5 mph),dry,219,630,Canadian Grand Prix,1972-09-24
+164,"Sunny at start, brief showers late",changing,220,631,United States Grand Prix,1972-10-08
+150,"Sunny, Hot, Dry",dry,198,632,South African Grand Prix,1971-03-06
+151,"Sunny, Hot, Dry",dry,199,633,Spanish Grand Prix,1971-04-18
+152,Overcast,dry,200,634,Monaco Grand Prix,1971-05-23
+153,Wet,wet,201,635,Dutch Grand Prix,1971-06-20
+1023,fine,dry,202,636,French Grand Prix,1971-07-04
+154,"Overcast, dry",dry,203,637,British Grand Prix,1971-07-17
+1024,fine,dry,204,638,German Grand Prix,1971-08-01
+155,Dry,dry,205,639,Austrian Grand Prix,1971-08-15
+1025,fine,dry,206,640,Italian Grand Prix,1971-09-05
+156,Rainy and foggy with temperatures approaching 17.8 °C (64.0 °F); wind speeds up to 8 kilometres per hour (5.0 mph),wet,207,641,Canadian Grand Prix,1971-09-19
+157,Dry,dry,208,642,United States Grand Prix,1971-10-03
+142,"Very hot, Dry",dry,185,643,South African Grand Prix,1970-03-07
+143,"Very hot, Dry",dry,186,644,Spanish Grand Prix,1970-04-19
+144,Sunny and warm,dry,187,645,Monaco Grand Prix,1970-05-10
+1018,fine,dry,188,646,Belgian Grand Prix,1970-06-07
+145,Cloudy,dry,189,647,Dutch Grand Prix,1970-06-21
+146,Overcast,dry,190,648,French Grand Prix,1970-07-05
+1019,fine partly cloudy,dry,191,649,British Grand Prix,1970-07-18
+1020,fine,dry,192,650,German Grand Prix,1970-08-02
+1021,fine,dry,193,651,Austrian Grand Prix,1970-08-16
+147,"Sunny, Dry",dry,194,652,Italian Grand Prix,1970-09-06
+148,Mild with temperatures approaching 23.3 °C (73.9 °F); winds gusting up to 10.1 kilometres per hour (6.3 mph),dry,195,653,Canadian Grand Prix,1970-09-20
+149,Cloudy and dry with temperatures reaching up to 10 °C (50 °F);,dry,196,654,United States Grand Prix,1970-10-04
+1022,fine,dry,197,655,Mexican Grand Prix,1970-10-25
+132,"Hot, Dry",dry,174,656,South African Grand Prix,1969-03-01
+133,"Sunny, mild, dry",dry,175,657,Spanish Grand Prix,1969-05-04
+134,"Overcast, mild, dry",dry,176,658,Monaco Grand Prix,1969-05-18
+135,"Sunny, mild, dry",dry,177,659,Dutch Grand Prix,1969-06-21
+136,"Sunny, mild, dry",dry,178,660,French Grand Prix,1969-07-06
+137,"Overcast, dry",dry,179,661,British Grand Prix,1969-07-19
+1017,fine,dry,180,662,German Grand Prix,1969-08-03
+138,"Sunny, Dry",dry,181,663,Italian Grand Prix,1969-09-07
+139,Mild with temperatures approaching 21.1 °C (70.0 °F); wind speeds up to 10.1 kilometres per hour (6.3 mph),dry,182,664,Canadian Grand Prix,1969-09-20
+140,Dry with temperatures reaching up to 18 °C (64 °F);,dry,183,665,United States Grand Prix,1969-10-05
+141,Warm and dry,dry,184,666,Mexican Grand Prix,1969-10-19
+120,"Very hot, dry",dry,162,667,South African Grand Prix,1968-01-01
+121,"Hot, Dry",dry,163,668,Spanish Grand Prix,1968-05-12
+122,"Sunny, Mild, Dry",dry,164,669,Monaco Grand Prix,1968-05-26
+123,"Overcast, Dry",dry,165,670,Belgian Grand Prix,1968-06-09
+124,Showers,wet,166,671,Dutch Grand Prix,1968-06-23
+125,Wet,wet,167,672,French Grand Prix,1968-07-07
+126,"Hot, Dry",dry,168,673,British Grand Prix,1968-07-20
+127,"Hazy, Wet",changing,169,674,German Grand Prix,1968-08-04
+128,"Hot, Dry",dry,170,675,Italian Grand Prix,1968-09-08
+129,Sunny with temperatures reaching up to 27.8 °C (82.0 °F) and wind speeds up to 10.1 kilometres per hour (6.3 mph); no precipitation reported throughout the day,dry,171,676,Canadian Grand Prix,1968-09-22
+130,Temperatures reaching a maximum of 20 °C (68 °F);,dry,172,677,United States Grand Prix,1968-10-06
+131,"Sunny, Mild, Dry",dry,173,678,Mexican Grand Prix,1968-11-03
+1010,fine partly cloudy,dry,151,679,South African Grand Prix,1967-01-02
+1011,fine,dry,152,680,Monaco Grand Prix,1967-05-07
+1012,fine partly cloudy,dry,153,681,Dutch Grand Prix,1967-06-04
+1013,fine,dry,154,682,Belgian Grand Prix,1967-06-18
+1014,fine,dry,155,683,French Grand Prix,1967-07-02
+1015,fine,dry,156,684,British Grand Prix,1967-07-15
+116,"Warm, dry and sunny",dry,157,685,German Grand Prix,1967-08-06
+117,Rainy with temperatures up to 24.4 °C (75.9 °F); wind speeds up to 8 kilometres per hour (5.0 mph),wet,158,686,Canadian Grand Prix,1967-08-27
+118,"Warm, dry",dry,159,687,Italian Grand Prix,1967-09-10
+119,Sunny,dry,160,688,United States Grand Prix,1967-10-01
+1016,fine,dry,161,689,Mexican Grand Prix,1967-10-22
+107,"Overcast, Mild, Dry",dry,142,690,Monaco Grand Prix,1966-05-22
+108,Overcast and wet,changing,143,691,Belgian Grand Prix,1966-06-12
+109,"Hot, dry",dry,144,692,French Grand Prix,1966-07-03
+110,"Wet, drying later",changing,145,693,British Grand Prix,1966-07-16
+111,"Sunny, Mild, Dry",dry,146,694,Dutch Grand Prix,1966-07-24
+112,Overcast and wet,changing,147,695,German Grand Prix,1966-08-07
+113,"Warm, dry and sunny",dry,148,696,Italian Grand Prix,1966-09-04
+114,"Cool, dry",dry,149,697,United States Grand Prix,1966-10-02
+115,"Warm, clear",dry,150,698,Mexican Grand Prix,1966-10-23
+1005,fine partly cloudy,dry,132,699,South African Grand Prix,1965-01-01
+1006,fine partly cloudy,dry,133,700,Monaco Grand Prix,1965-05-30
+102,Heavy rain,wet,134,701,Belgian Grand Prix,1965-06-13
+103,Sunny,dry,135,702,French Grand Prix,1965-06-27
+104,"Warm, dry and overcast",dry,136,703,British Grand Prix,1965-07-10
+1007,rain,wet,137,704,Dutch Grand Prix,1965-07-18
+105,Overcast and dry,dry,138,705,German Grand Prix,1965-08-01
+1008,fine partly cloudy,dry,139,706,Italian Grand Prix,1965-09-12
+106,"Rainy, windy, cold",wet,140,707,United States Grand Prix,1965-10-03
+1009,fine partly rain,changing,141,708,Mexican Grand Prix,1965-10-24
+1003,fine partly cloudy,dry,122,709,Monaco Grand Prix,1964-05-10
+94,Dry,dry,123,710,Dutch Grand Prix,1964-05-24
+95,Dry,dry,124,711,Belgian Grand Prix,1964-06-14
+96,Dry,dry,125,712,French Grand Prix,1964-06-28
+97,"Warm, dry",dry,126,713,British Grand Prix,1964-07-11
+98,Dry,dry,127,714,German Grand Prix,1964-08-02
+99,Dry,dry,128,715,Austrian Grand Prix,1964-08-23
+100,Dry,dry,129,716,Italian Grand Prix,1964-09-06
+101,"Sunny, warm",dry,130,717,United States Grand Prix,1964-10-04
+1004,fine,dry,131,718,Mexican Grand Prix,1964-10-25
+84,"Warm, dry and sunny",dry,112,719,Monaco Grand Prix,1963-05-26
+85,Wet and overcast,changing,113,720,Belgian Grand Prix,1963-06-09
+86,Sunny,dry,114,721,Dutch Grand Prix,1963-06-23
+87,"Sunny, then rain",changing,115,722,French Grand Prix,1963-06-30
+88,"Warm, dry and sunny",dry,116,723,British Grand Prix,1963-07-20
+89,"Warm, dry and sunny, 21C.",dry,117,724,German Grand Prix,1963-08-04
+90,"Warm, dry and sunny",dry,118,725,Italian Grand Prix,1963-09-08
+91,Sunny,dry,119,726,United States Grand Prix,1963-10-06
+92,"Overcast, dry",dry,120,727,Mexican Grand Prix,1963-10-27
+93,"Hot, dry and windy",dry,121,728,South African Grand Prix,1963-12-28
+75,Sunny,dry,103,729,Dutch Grand Prix,1962-05-20
+76,Cloudy,dry,104,730,Monaco Grand Prix,1962-06-03
+77,Sunny,dry,105,731,Belgian Grand Prix,1962-06-17
+78,Sunny,dry,106,732,French Grand Prix,1962-07-08
+79,Sunny,dry,107,733,British Grand Prix,1962-07-21
+80,Heavy rain showers,wet,108,734,German Grand Prix,1962-08-05
+81,"Dry, with rain later",changing,109,735,Italian Grand Prix,1962-09-16
+82,Sunny,dry,110,736,United States Grand Prix,1962-10-07
+83,"Dry, windy",dry,111,737,South African Grand Prix,1962-12-29
+67,Sunny,dry,95,738,Monaco Grand Prix,1961-05-14
+68,Sunny,dry,96,739,Dutch Grand Prix,1961-05-22
+69,Sunny,dry,97,740,Belgian Grand Prix,1961-06-18
+70,Sunny,dry,98,741,French Grand Prix,1961-07-02
+71,"Torrential rain, drying later",changing,99,742,British Grand Prix,1961-07-15
+72,Wet,wet,100,743,German Grand Prix,1961-08-06
+73,Sunny,dry,101,744,Italian Grand Prix,1961-09-10
+74,Temperatures up to 22 °C (72 °F);,dry,102,745,United States Grand Prix,1961-10-08
+997,fine,dry,85,746,Argentine Grand Prix,1960-02-07
+998,"fine, rain later",dry,86,747,Monaco Grand Prix,1960-05-29
+999,fine partly cloudy,dry,87,748,Indianapolis 500,1960-05-30
+1000,fine,dry,88,749,Dutch Grand Prix,1960-06-06
+1001,fine,dry,89,750,Belgian Grand Prix,1960-06-19
+63,Dry,dry,90,751,French Grand Prix,1960-07-03
+64,"Dry, overcast.",dry,91,752,British Grand Prix,1960-07-16
+1002,fine partly cloudy,dry,92,753,Portuguese Grand Prix,1960-08-14
+65,"Warm, dry",dry,93,754,Italian Grand Prix,1960-09-04
+66,Temperatures up to 24.4 °C (75.9 °F);,dry,94,755,United States Grand Prix,1960-11-20
+55,"Hot, clear",dry,76,756,Monaco Grand Prix,1959-05-10
+996,fine,dry,77,757,Indianapolis 500,1959-05-30
+56,Sunny,dry,78,758,Dutch Grand Prix,1959-05-31
+57,"Hot, dry",dry,79,759,French Grand Prix,1959-07-05
+58,Dry and sunny.,dry,80,760,British Grand Prix,1959-07-18
+59,Dry and dull.,dry,81,761,German Grand Prix,1959-08-02
+60,Hot and clear.,dry,82,762,Portuguese Grand Prix,1959-08-23
+61,Dry and sunny,dry,83,763,Italian Grand Prix,1959-09-13
+62,Sunny with temperatures reaching up to 25 °C (77 °F);,dry,84,764,United States Grand Prix,1959-12-12
+987,fine,dry,65,765,Argentine Grand Prix,1958-01-19
+988,fine,dry,66,766,Monaco Grand Prix,1958-05-18
+989,fine partly cloudy,dry,67,767,Dutch Grand Prix,1958-05-26
+990,fine,dry,68,768,Indianapolis 500,1958-05-30
+53,"Hot, dry",dry,69,769,Belgian Grand Prix,1958-06-15
+991,fine,dry,70,770,French Grand Prix,1958-07-06
+992,fine,dry,71,771,British Grand Prix,1958-07-19
+993,fine partly cloudy,dry,72,772,German Grand Prix,1958-08-03
+994,"cloudy, fine later",dry,73,773,Portuguese Grand Prix,1958-08-24
+995,fine,dry,74,774,Italian Grand Prix,1958-09-07
+54,"Warm, dry, sunny",dry,75,775,Moroccan Grand Prix,1958-10-19
+982,fine partly rain,dry,57,776,Argentine Grand Prix,1957-01-13
+983,fine,dry,58,777,Monaco Grand Prix,1957-05-19
+50,"Slightly overcast, dry track",dry,59,778,Indianapolis 500,1957-05-30
+984,fine partly cloudy,dry,60,779,French Grand Prix,1957-07-07
+51,"Overcast, dry.",dry,61,780,British Grand Prix,1957-07-20
+985,fine partly cloudy,dry,62,781,German Grand Prix,1957-08-04
+52,"Sunny, very hot, dry",dry,63,782,Pescara Grand Prix,1957-08-18
+986,fine,dry,64,783,Italian Grand Prix,1957-09-08
+44,Overcast but dry,dry,49,784,Argentine Grand Prix,1956-01-22
+45,"Warm, dry, sunny",dry,50,785,Monaco Grand Prix,1956-05-13
+46,"Overcast, dry track",dry,51,786,Indianapolis 500,1956-05-30
+47,"Wet and overcast, later drying",changing,52,787,Belgian Grand Prix,1956-06-03
+980,fine partly cloudy,dry,53,788,French Grand Prix,1956-07-01
+48,"Overcast, dry",dry,54,789,British Grand Prix,1956-07-14
+981,fine partly cloudy,dry,55,790,German Grand Prix,1956-08-05
+49,"Cloudy, warm, alternating light rain",changing,56,791,Italian Grand Prix,1956-09-02
+40,Very hot and dry,dry,42,792,Argentine Grand Prix,1955-01-16
+977,"fine, rain later",changing,43,793,Monaco Grand Prix,1955-05-22
+41,Cool and windy,dry,44,794,Indianapolis 500,1955-05-30
+978,fine,dry,45,795,Belgian Grand Prix,1955-06-05
+42,Drizzly,wet,46,796,Dutch Grand Prix,1955-06-19
+43,"Hot, dry.",dry,47,797,British Grand Prix,1955-07-16
+979,"fine, rain later",dry,48,798,Italian Grand Prix,1955-09-11
+31,"Overcast, wet",changing,33,799,Argentine Grand Prix,1954-01-17
+32,Very hot and sunny,dry,34,800,Indianapolis 500,1954-05-31
+33,"Sunny, mild, dry",dry,35,801,Belgian Grand Prix,1954-06-20
+34,"Overcast, wet",changing,36,802,French Grand Prix,1954-07-04
+35,"Cold, wet (heavy rain).",wet,37,803,British Grand Prix,1954-07-17
+36,"Sunny, dry",dry,38,804,German Grand Prix,1954-08-01
+37,Rain,wet,39,805,Swiss Grand Prix,1954-08-22
+38,"Sunny, mild, dry",dry,40,806,Italian Grand Prix,1954-09-05
+39,"Sunny, mild, dry",dry,41,807,Spanish Grand Prix,1954-10-24
+22,"Hot, dry",dry,24,808,Argentine Grand Prix,1953-01-18
+23,Extremely hot,dry,25,809,Indianapolis 500,1953-05-30
+24,"Sunny, mild, dry",dry,26,810,Dutch Grand Prix,1953-06-07
+25,"Hot, dry",dry,27,811,Belgian Grand Prix,1953-06-21
+26,"Hot, dry",dry,28,812,French Grand Prix,1953-07-05
+27,"Overcast, showers",changing,29,813,British Grand Prix,1953-07-18
+28,"Sunny, mild, dry",dry,30,814,German Grand Prix,1953-08-02
+29,"Sunny, mild, dry",dry,31,815,Swiss Grand Prix,1953-08-23
+30,"Sunny, mild, dry",dry,32,816,Italian Grand Prix,1953-09-13
+14,Sunny,dry,16,817,Swiss Grand Prix,1952-05-18
+15,Warm and sunny,dry,17,818,Indianapolis 500,1952-05-30
+16,Rain,wet,18,819,Belgian Grand Prix,1952-06-22
+17,Rain,wet,19,820,French Grand Prix,1952-07-06
+18,"Overcast, dry.",dry,20,821,British Grand Prix,1952-07-19
+19,Sunny,dry,21,822,German Grand Prix,1952-08-03
+20,Rainy,wet,22,823,Dutch Grand Prix,1952-08-17
+21,Sunny,dry,23,824,Italian Grand Prix,1952-09-07
+6,"Overcast, rain",changing,8,825,Swiss Grand Prix,1951-05-27
+7,Warm and sunny,dry,9,826,Indianapolis 500,1951-05-30
+8,"Sunny, Mild, Dry",dry,10,827,Belgian Grand Prix,1951-06-17
+9,"Sunny, Hot, Dry",dry,11,828,French Grand Prix,1951-07-01
+10,"Mild, Dry",dry,12,829,British Grand Prix,1951-07-14
+11,"Sunny, Mild, Dry",dry,13,830,German Grand Prix,1951-07-29
+12,Warm and sunny,dry,14,831,Italian Grand Prix,1951-09-16
+13,"Hot, Dry",dry,15,832,Spanish Grand Prix,1951-10-28
+0,"Sunny, mild, dry.",dry,1,833,British Grand Prix,1950-05-13
+976,fine,dry,2,834,Monaco Grand Prix,1950-05-21
+1,Rainy,wet,3,835,Indianapolis 500,1950-05-30
+2,"Warm, dry and sunny",dry,4,836,Swiss Grand Prix,1950-06-04
+3,"Warm, dry and sunny",dry,5,837,Belgian Grand Prix,1950-06-18
+4,Hot and sunny,dry,6,838,French Grand Prix,1950-07-02
+5,"Warm, hot and sunny",dry,7,839,Italian Grand Prix,1950-09-03
+731,"Sunny, 18°C",dry,840,841,Australian Grand Prix,2011-03-27
+732,"Cloudy, dry",dry,841,842,Malaysian Grand Prix,2011-04-10
+733,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_1-0""><a href=""#cite_note-weather-1"">[1]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_1-1""><a href=""#cite_note-weather-1"">[1]</a></sup>
+</p>]",dry,842,843,Chinese Grand Prix,2011-04-17
+734,"[<p>Sunny, Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 17 °C (63 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,843,844,Turkish Grand Prix,2011-05-08
+735,"[<p>Mainly sunny, Fine and Dry<sup class=""reference"" id=""cite_ref-3""><a href=""#cite_note-3"">[3]</a></sup><sup class=""reference"" id=""cite_ref-weather_4-0""><a href=""#cite_note-weather-4"">[4]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_4-1""><a href=""#cite_note-weather-4"">[4]</a></sup>
+</p>]",dry,844,845,Spanish Grand Prix,2011-05-22
+736,"Sunny, Fine and Dry",dry,845,846,Monaco Grand Prix,2011-05-29
+737,"Wet at start, very heavy rain later, after rain stops, track drying towards the end. Temperatures up to 27 °C (81 °F); wind speeds up to 12 kilometres per hour (7.5 mph)",changing,846,847,Canadian Grand Prix,2011-06-12
+738,"[<p>Clear, Fine and Dry<sup class=""reference"" id=""cite_ref-1""><a href=""#cite_note-1"">[1]</a></sup><sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,847,848,European Grand Prix,2011-06-26
+739,Wet track at start; subsequently drying.,changing,848,849,British Grand Prix,2011-07-10
+740,"Cloudy, (light) rain at start",changing,849,850,German Grand Prix,2011-07-24
+741,"Cloudy, rain showers",changing,850,851,Hungarian Grand Prix,2011-07-31
+742,"Cloudy, dry",dry,851,852,Belgian Grand Prix,2011-08-28
+743,Mainly sunny,dry,852,853,Italian Grand Prix,2011-09-11
+744,"[<p>Hot and humid
+</p>]",dry,853,854,Singapore Grand Prix,2011-09-25
+745,"[<p>Sunny and dry
+</p>]",dry,854,855,Japanese Grand Prix,2011-10-09
+746,"[<p>Dry, light rain at the start
+</p>]",changing,855,856,Korean Grand Prix,2011-10-16
+747,"[<p>Fine and Dry
+</p>]",dry,856,857,Indian Grand Prix,2011-10-30
+748,"[<p>Fine and Dry
+</p>]",dry,857,858,Abu Dhabi Grand Prix,2011-11-13
+749,"[<p>Fine
+</p>]",dry,858,859,Brazilian Grand Prix,2011-11-27
+750,"[<p>Fine<sup class=""reference"" id=""cite_ref-weather_1-0""><a href=""#cite_note-weather-1"">[1]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_1-1""><a href=""#cite_note-weather-1"">[1]</a></sup>
+</p>]",dry,859,860,Australian Grand Prix,2012-03-18
+751,"[<p>Heavy rain clearing to cloudy and dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 26 °C (79 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",changing,860,861,Malaysian Grand Prix,2012-03-25
+752,"[<p>Overcast but Dry<sup class=""reference"" id=""cite_ref-weather_1-0""><a href=""#cite_note-weather-1"">[1]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_1-1""><a href=""#cite_note-weather-1"">[1]</a></sup>
+</p>]",dry,861,862,Chinese Grand Prix,2012-04-15
+753,"[<p>Sunny and hot<sup class=""reference"" id=""cite_ref-1""><a href=""#cite_note-1"">[1]</a></sup><sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,862,863,Bahrain Grand Prix,2012-04-22
+754,"Partially cloudy, dry: Air 23 °C (73 °F), Track 36 °C (97 °F)",dry,863,864,Spanish Grand Prix,2012-05-13
+755,"[<p>Fine and Dry, showers threatening at end<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 21 °C (70 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",changing,864,865,Monaco Grand Prix,2012-05-27
+756,"[<p>Fine, dry and warm;<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+with air temperature approaching 29 °C (84 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,865,866,Canadian Grand Prix,2012-06-10
+757,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 27 °C (81 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,866,867,European Grand Prix,2012-06-24
+758,Dry,dry,867,868,British Grand Prix,2012-07-08
+759,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 22 °C (72 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,868,869,German Grand Prix,2012-07-22
+760,"[<p>Fine and Dry. Very Hot<sup class=""reference"" id=""cite_ref-2""><a href=""#cite_note-2"">[2]</a></sup><sup class=""reference"" id=""cite_ref-weather_3-0""><a href=""#cite_note-weather-3"">[3]</a></sup>
+Air Temp 30 °C (86 °F)<sup class=""reference"" id=""cite_ref-weather_3-1""><a href=""#cite_note-weather-3"">[3]</a></sup>
+</p>]",dry,869,870,Hungarian Grand Prix,2012-07-29
+761,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_4-0""><a href=""#cite_note-weather-4"">[4]</a></sup>
+Air Temp 23 °C (73 °F)<sup class=""reference"" id=""cite_ref-weather_4-1""><a href=""#cite_note-weather-4"">[4]</a></sup>
+</p>]",dry,870,871,Belgian Grand Prix,2012-09-02
+762,"[<p>Dry and sizzlingly sunny<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+<br/>Air temp 28 °C (82 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,871,872,Italian Grand Prix,2012-09-09
+763,Hot and humid,dry,872,873,Singapore Grand Prix,2012-09-23
+764,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 23 °C (73 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,873,874,Japanese Grand Prix,2012-10-07
+765,"[<p>Fine and Dry<sup class=""reference"" id=""cite_ref-weather_3-0""><a href=""#cite_note-weather-3"">[3]</a></sup>
+Air Temp 21 °C (70 °F)<sup class=""reference"" id=""cite_ref-weather_3-1""><a href=""#cite_note-weather-3"">[3]</a></sup>
+</p>]",dry,874,875,Korean Grand Prix,2012-10-14
+766,"[<p>Fine, Dry, a little hazy and a little dusty<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 30 °C (86 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,875,876,Indian Grand Prix,2012-10-28
+767,"[<p>Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 29 °C (84 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,876,877,Abu Dhabi Grand Prix,2012-11-04
+768,Scattered clouds,dry,877,878,United States Grand Prix,2012-11-18
+769,"[<p>Race start: drops of rain, light rain shower getting heavier at the end.<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 19 °C (66 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",wet,878,879,Brazilian Grand Prix,2012-11-25
+770,"[<p>Scattered Clouds, Fine and Dry<sup class=""reference"" id=""cite_ref-weather_2-0""><a href=""#cite_note-weather-2"">[2]</a></sup>
+Air Temp 18 °C (64 °F)<sup class=""reference"" id=""cite_ref-weather_2-1""><a href=""#cite_note-weather-2"">[2]</a></sup>
+</p>]",dry,879,880,Australian Grand Prix,2013-03-17
+771,Light rain clearing to cloudy and dry,changing,880,881,Malaysian Grand Prix,2013-03-24
+772,Cloudy,dry,881,882,Chinese Grand Prix,2013-04-14
+773,Sunny,dry,882,883,Bahrain Grand Prix,2013-04-21
+774,Sunny,dry,883,884,Spanish Grand Prix,2013-05-12
+775,Warm and sunny,dry,884,885,Monaco Grand Prix,2013-05-26
+776,Mild with temperatures approaching 23 °C (73 °F); wind speeds up to 15 kilometres per hour (9.3 mph),dry,885,886,Canadian Grand Prix,2013-06-09
+777,Dry,dry,886,887,British Grand Prix,2013-06-30
+778,Sunny,dry,887,888,German Grand Prix,2013-07-07
+779,"Very hot and sunny, 35°C.",dry,888,890,Hungarian Grand Prix,2013-07-28
+780,Cloudy,dry,889,891,Belgian Grand Prix,2013-08-25
+781,Cloudy,dry,890,892,Italian Grand Prix,2013-09-08
+782,Dry and 29 degrees,dry,891,893,Singapore Grand Prix,2013-09-22
+783,Cloudy with maximum temperatures reaching 29 degrees during the day,dry,892,894,Korean Grand Prix,2013-10-06
+784,Warm and sunny,dry,893,895,Japanese Grand Prix,2013-10-13
+785,"Sunny, haze",dry,894,896,Indian Grand Prix,2013-10-27
+786,Clear,dry,895,897,Abu Dhabi Grand Prix,2013-11-03
+787,"Partly cloudy, warm",dry,896,898,United States Grand Prix,2013-11-17
+788,"Cloudy, Air Temp: 18°C",dry,897,899,Brazilian Grand Prix,2013-11-24
+789,"Overcast, 19 °C(66 °F)",dry,898,900,Australian Grand Prix,2014-03-16
+790,"Dry, 32°C",dry,899,901,Malaysian Grand Prix,2014-03-30
+791,Dry,dry,900,902,Bahrain Grand Prix,2014-04-06
+792,"Mostly cloudy, dry",dry,901,903,Chinese Grand Prix,2014-04-20
+793,Sunny,dry,902,904,Spanish Grand Prix,2014-05-11
+794,"Overcast, Air: 20 to 21 °C (68 to 70 °F), Track: 28 to 30 °C (82 to 86 °F).",dry,903,905,Monaco Grand Prix,2014-05-25
+795,Temperatures up to 27.6 °C (81.7 °F); wind speeds up to 16.4 kilometres per hour (10.2 mph),dry,904,906,Canadian Grand Prix,2014-06-08
+796,"Partially cloudy, hot and dry",dry,905,907,Austrian Grand Prix,2014-06-22
+797,Mostly cloudy with maximum temperatures reaching 21 degrees during the day.,dry,906,908,British Grand Prix,2014-07-06
+798,Cloudy with maximum temperatures reaching 26 degrees during the day.,dry,907,909,German Grand Prix,2014-07-20
+799,"Overcast. Wet track at start, then drying.",changing,908,910,Hungarian Grand Prix,2014-07-27
+800,Mostly cloudy,dry,909,911,Belgian Grand Prix,2014-08-24
+801,"Sunny; Air: 25 °C (77 °F), Track: 37 to 42 °C (99 to 108 °F)",dry,910,912,Italian Grand Prix,2014-09-07
+802,Clear. Air: 28 to 30 °C (82 to 86 °F) Track: 33 to 37 °C (91 to 99 °F).,dry,911,913,Singapore Grand Prix,2014-09-21
+803,Rain. Air: 20 °C (68 °F) Track: 24 °C (75 °F),wet,912,914,Japanese Grand Prix,2014-10-05
+804,Fine and dry;,dry,913,915,Russian Grand Prix,2014-10-12
+805,Sunny,dry,914,916,United States Grand Prix,2014-11-02
+806,"Sunny, Air: 23 to 24 °C (73 to 75 °F), Track: 46 to 50 °C (115 to 122 °F)",dry,915,917,Brazilian Grand Prix,2014-11-09
+807,"Clear skies; Air temp: 30 °C (86 °F) during the day, dropping to 24 °C (75.2 °F). Wind speed: 8 km/h (4.9 mph).",dry,916,918,Abu Dhabi Grand Prix,2014-11-23
+808,Partly cloudy,dry,917,926,Australian Grand Prix,2015-03-15
+809,Sunny,dry,918,927,Malaysian Grand Prix,2015-03-29
+810,Sunny,dry,919,928,Chinese Grand Prix,2015-04-12
+811,"Sunny, clear",dry,920,929,Bahrain Grand Prix,2015-04-19
+812,Sunny,dry,921,930,Spanish Grand Prix,2015-05-10
+813,Partly cloudy,dry,922,931,Monaco Grand Prix,2015-05-24
+814,Sunny,dry,923,932,Canadian Grand Prix,2015-06-07
+815,Cloudy,dry,924,933,Austrian Grand Prix,2015-06-21
+816,"Cloudy, rain at times",changing,925,934,British Grand Prix,2015-07-05
+817,Sunny,dry,926,936,Hungarian Grand Prix,2015-07-26
+818,Cloudy,dry,927,937,Belgian Grand Prix,2015-08-23
+819,Partly cloudy,dry,928,938,Italian Grand Prix,2015-09-06
+820,Dry,dry,929,939,Singapore Grand Prix,2015-09-20
+821,Partly cloudy,dry,930,940,Japanese Grand Prix,2015-09-27
+822,Partly cloudy,dry,931,941,Russian Grand Prix,2015-10-11
+823,Very cloudy,dry,932,942,United States Grand Prix,2015-10-25
+824,Partly cloudy,dry,933,943,Mexican Grand Prix,2015-11-01
+825,Dry,dry,934,944,Brazilian Grand Prix,2015-11-15
+826,Clear,dry,935,945,Abu Dhabi Grand Prix,2015-11-29
+827,Partly cloudy,dry,936,948,Australian Grand Prix,2016-03-20
+828,Dry,dry,937,949,Bahrain Grand Prix,2016-04-03
+829,Sunny,dry,938,950,Chinese Grand Prix,2016-04-17
+830,Partly cloudy,dry,939,951,Russian Grand Prix,2016-05-01
+831,Partly cloudy,dry,940,952,Spanish Grand Prix,2016-05-15
+832,"Rainy at start, dry later",changing,941,953,Monaco Grand Prix,2016-05-29
+833,Cloudy,dry,942,954,Canadian Grand Prix,2016-06-12
+834,Partly cloudy,dry,943,955,European Grand Prix,2016-06-19
+835,Cloudy,dry,944,956,Austrian Grand Prix,2016-07-03
+836,"Wet at start, dry later",changing,945,957,British Grand Prix,2016-07-10
+837,Sunny,dry,946,958,Hungarian Grand Prix,2016-07-24
+838,Partially cloudy and dry,dry,947,959,German Grand Prix,2016-07-31
+839,Partially cloudy and dry,dry,948,960,Belgian Grand Prix,2016-08-28
+840,"Sunny, warm",dry,949,961,Italian Grand Prix,2016-09-04
+841,Clear,dry,950,962,Singapore Grand Prix,2016-09-18
+842,Sunny,dry,951,963,Malaysian Grand Prix,2016-10-02
+843,Cloudy,dry,952,964,Japanese Grand Prix,2016-10-09
+844,Sunny and hot with temperatures reaching up to 84 °F (29 °C); wind speeds approaching speeds of 9.2 miles per hour (14.8 km/h),dry,953,965,United States Grand Prix,2016-10-23
+845,Sunny,dry,954,966,Mexican Grand Prix,2016-10-30
+846,Rain and 16 °C (60.8 °F),wet,955,967,Brazilian Grand Prix,2016-11-13
+847,Sunny,dry,956,968,Abu Dhabi Grand Prix,2016-11-27
+848,Partly cloudy,dry,957,969,Australian Grand Prix,2017-03-26
+849,"Light rain at start, drying later.",changing,958,970,Chinese Grand Prix,2017-04-09
+850,Clear,dry,959,971,Bahrain Grand Prix,2017-04-16
+851,Sunny,dry,960,972,Russian Grand Prix,2017-04-30
+852,Sunny,dry,961,973,Spanish Grand Prix,2017-05-14
+853,Sunny,dry,962,974,Monaco Grand Prix,2017-05-28
+854,Sunny and hot with temperatures reaching up to 29 °C (84 °F); wind speeds reaching 12.9 kilometres per hour (8.0 mph),dry,963,975,Canadian Grand Prix,2017-06-11
+855,Sunny,dry,964,976,Azerbaijan Grand Prix,2017-06-25
+856,Partly cloudy,dry,965,977,Austrian Grand Prix,2017-07-09
+857,Overcast,dry,966,978,British Grand Prix,2017-07-16
+858,Sunny,dry,967,979,Hungarian Grand Prix,2017-07-30
+859,Partially cloudy and dry,dry,968,980,Belgian Grand Prix,2017-08-27
+860,Sunny,dry,969,981,Italian Grand Prix,2017-09-03
+861,"Wet at start, then drying. Air temperature: 28°C (82°F)",changing,970,982,Singapore Grand Prix,2017-09-17
+862,Cloudy,dry,971,983,Malaysian Grand Prix,2017-10-01
+863,Sunny,dry,972,984,Japanese Grand Prix,2017-10-08
+864,Sunny with temperatures reaching up to 82.9 °F (28.3 °C); wind speeds approaching speeds of 13.8 miles per hour (22.2 km/h),dry,973,985,United States Grand Prix,2017-10-22
+865,"Sunny, dry",dry,974,986,Mexican Grand Prix,2017-10-29
+866,Sunny,dry,975,987,Brazilian Grand Prix,2017-11-12
+867,Clear,dry,976,988,Abu Dhabi Grand Prix,2017-11-26
+868,Sunny,dry,977,989,Australian Grand Prix,2018-03-25
+869,Clear,dry,978,990,Bahrain Grand Prix,2018-04-08
+870,Sunny,dry,979,991,Chinese Grand Prix,2018-04-15
+871,Cloudy,dry,980,992,Azerbaijan Grand Prix,2018-04-29
+872,"Partially cloudy and dry, 16°C and cold.",dry,981,993,Spanish Grand Prix,2018-05-13
+873,Sunny,dry,982,994,Monaco Grand Prix,2018-05-27
+874,Temperatures reaching up to 22.7 °C (72.9 °F); with wind speeds reaching 11.1 kilometres per hour (6.9 mph),dry,983,995,Canadian Grand Prix,2018-06-10
+875,"Partially cloudy, warm and dry",dry,984,996,French Grand Prix,2018-06-24
+876,Sunny,dry,985,997,Austrian Grand Prix,2018-07-01
+877,Sunny 27.0 °C (80.6 °F),dry,986,998,British Grand Prix,2018-07-08
+878,Overcast with intermittent rain,changing,987,999,German Grand Prix,2018-07-22
+879,Sunny,dry,988,1000,Hungarian Grand Prix,2018-07-29
+880,Cloudy,dry,989,1001,Belgian Grand Prix,2018-08-26
+881,Sunny,dry,990,1002,Italian Grand Prix,2018-09-02
+882,Clear,dry,991,1003,Singapore Grand Prix,2018-09-16
+883,Cloudy,dry,992,1004,Russian Grand Prix,2018-09-30
+884,Partly cloudy,dry,993,1005,Japanese Grand Prix,2018-10-07
+885,Partly cloudy,dry,994,1006,United States Grand Prix,2018-10-21
+886,Sunny,dry,995,1007,Mexican Grand Prix,2018-10-28
+887,Cloudy,dry,996,1008,Brazilian Grand Prix,2018-11-11
+888,Clear,dry,997,1009,Abu Dhabi Grand Prix,2018-11-25
+889,Sunny,dry,998,1010,Australian Grand Prix,2019-03-17
+890,Clear,dry,999,1011,Bahrain Grand Prix,2019-03-31
+891,Partly cloudy,dry,1000,1012,Chinese Grand Prix,2019-04-14
+892,Mostly sunny,dry,1001,1013,Azerbaijan Grand Prix,2019-04-28
+893,Sunny,dry,1002,1014,Spanish Grand Prix,2019-05-12
+894,Overcast,dry,1003,1015,Monaco Grand Prix,2019-05-26
+895,Temperatures reaching up to 29.6 °C (85.3 °F); wind speeds negligible,dry,1004,1016,Canadian Grand Prix,2019-06-09
+896,Clear,dry,1005,1017,French Grand Prix,2019-06-23
+897,"Sunny, 36C (97F)",dry,1006,1018,Austrian Grand Prix,2019-06-30
+898,Partly cloudy,dry,1007,1019,British Grand Prix,2019-07-14
+899,"Early rain, Late clouds",changing,1008,1020,German Grand Prix,2019-07-28
+900,Sunny,dry,1009,1021,Hungarian Grand Prix,2019-08-04
+901,Partly cloudy,dry,1010,1022,Belgian Grand Prix,2019-09-01
+902,Partly cloudy,dry,1011,1023,Italian Grand Prix,2019-09-08
+903,Slightly hazy,dry,1012,1024,Singapore Grand Prix,2019-09-22
+904,Partly cloudy,dry,1013,1025,Russian Grand Prix,2019-09-29
+905,Sunny,dry,1014,1026,Japanese Grand Prix,2019-10-13
+906,Partly cloudy,dry,1015,1027,Mexican Grand Prix,2019-10-27
+907,Sunny,dry,1016,1028,United States Grand Prix,2019-11-03
+908,Sunny,dry,1017,1029,Brazilian Grand Prix,2019-11-17
+909,Clear,dry,1018,1030,Abu Dhabi Grand Prix,2019-12-01
+910,Sunny,dry,1019,1031,Austrian Grand Prix,2020-07-05
+911,Sunny,dry,1020,1032,Styrian Grand Prix,2020-07-12
+912,"Wet at start, partly cloudy",changing,1021,1033,Hungarian Grand Prix,2020-07-19
+913,Partly cloudy,dry,1022,1034,British Grand Prix,2020-08-02
+914,Sunny,dry,1023,1035,70th Anniversary Grand Prix,2020-08-09
+915,Partly cloudy,dry,1024,1036,Spanish Grand Prix,2020-08-16
+916,Partly cloudy,dry,1025,1037,Belgian Grand Prix,2020-08-30
+917,Sunny,dry,1026,1038,Italian Grand Prix,2020-09-06
+918,Sunny,dry,1027,1039,Tuscan Grand Prix,2020-09-13
+919,Sunny,dry,1028,1040,Russian Grand Prix,2020-09-27
+920,"Partly cloudy, 10 °C (50 °F)",dry,1029,1041,Eifel Grand Prix,2020-10-11
+921,Cloudy,dry,1030,1042,Portuguese Grand Prix,2020-10-25
+922,Partly cloudy,dry,1031,1043,Emilia Romagna Grand Prix,2020-11-01
+923,Overcast. Wet and drying track. Air: 11–14 °C (52–57 °F); Track: 14–17 °C (57–63 °F),changing,1032,1044,Turkish Grand Prix,2020-11-15
+924,Clear,dry,1033,1045,Bahrain Grand Prix,2020-11-29
+925,Clear,dry,1034,1046,Sakhir Grand Prix,2020-12-06
+926,Clear,dry,1035,1047,Abu Dhabi Grand Prix,2020-12-13
+946,Clear,dry,1055,1051,Qatar Grand Prix,2021-11-21
+927,"Clear, 21 °C (70 °F)",dry,1036,1052,Bahrain Grand Prix,2021-03-28
+928,"Wet at start, drying during race, 9 °C (48 °F)",changing,1037,1053,Emilia Romagna Grand Prix,2021-04-18
+929,Light cloud,dry,1038,1054,Portuguese Grand Prix,2021-05-02
+930,Cloudy,dry,1039,1055,Spanish Grand Prix,2021-05-09
+931,Sunny,dry,1040,1056,Monaco Grand Prix,2021-05-23
+932,Sunny,dry,1041,1057,Azerbaijan Grand Prix,2021-06-06
+934,Partly cloudy. Ambient temperature: 25 to 29 °C (77 to 84 °F); Surface temperature: 48 to 56 °C (118 to 133 °F),dry,1043,1058,Styrian Grand Prix,2021-06-27
+933,Windy and partly cloudy. Ambient temperature: 24 to 27 °C (75 to 81 °F); Surface temperature: 33 to 38 °C (91 to 100 °F),dry,1042,1059,French Grand Prix,2021-06-20
+935,Partly cloudy,dry,1044,1060,Austrian Grand Prix,2021-07-04
+936,Clear. Ambient: 29 to 31 °C (84 to 88 °F); Surface: 48 to 52 °C (118 to 126 °F),dry,1045,1061,British Grand Prix,2021-07-18
+937,Rain and sunny. Ambient: 26 to 29 °C (79 to 84 °F); Surface: 31 to 52 °C (88 to 126 °F).,changing,1046,1062,Hungarian Grand Prix,2021-08-01
+938,Wet; persistent rain,wet,1047,1063,Belgian Grand Prix,2021-08-29
+939,Sunny,dry,1048,1064,Dutch Grand Prix,2021-09-05
+940,Sunny,dry,1049,1065,Italian Grand Prix,2021-09-12
+941,Cloudy and rainy,changing,1050,1066,Russian Grand Prix,2021-09-26
+942,Overcast with intermittent rain,changing,1051,1067,Turkish Grand Prix,2021-10-10
+943,Sunny,dry,1052,1069,United States Grand Prix,2021-10-24
+944,Sunny,dry,1053,1070,Mexico City Grand Prix,2021-11-07
+945,Sunny,dry,1054,1071,São Paulo Grand Prix,2021-11-14
+947,Clear,dry,1056,1072,Saudi Arabian Grand Prix,2021-12-05
+948,Clear,dry,1057,1073,Abu Dhabi Grand Prix,2021-12-12
+949,Clear,dry,1058,1074,Bahrain Grand Prix,2022-03-20
+950,Clear,dry,1059,1075,Saudi Arabian Grand Prix,2022-03-27
+951,Partly cloudy,dry,1060,1076,Australian Grand Prix,2022-04-10
+952,Cloudy in a wet and drying track,changing,1061,1077,Emilia Romagna Grand Prix,2022-04-24
+953,"Warm, partly cloudy",dry,1062,1078,Miami Grand Prix,2022-05-08
+954,Sunny,dry,1063,1079,Spanish Grand Prix,2022-05-22
+955,Rain and partly cloudy in wet-and-drying track conditions,changing,1064,1080,Monaco Grand Prix,2022-05-29
+956,Sunny,dry,1065,1081,Azerbaijan Grand Prix,2022-06-12
+957,Sunny,dry,1066,1082,Canadian Grand Prix,2022-06-19
+958,Partly cloudy,dry,1067,1083,British Grand Prix,2022-07-03
+959,Partly cloudy,dry,1068,1084,Austrian Grand Prix,2022-07-10
+960,Sunny,dry,1069,1085,French Grand Prix,2022-07-24
+961,"Overcast with drizzle throughout, light rain at the end",changing,1070,1086,Hungarian Grand Prix,2022-07-31
+962,Sunny,dry,1071,1087,Belgian Grand Prix,2022-08-28
+963,Partly cloudy,dry,1072,1088,Dutch Grand Prix,2022-09-04
+964,Sunny,dry,1073,1089,Italian Grand Prix,2022-09-11
+965,Partly cloudy in a wet and drying track,changing,1074,1091,Singapore Grand Prix,2022-10-02
+966,Rain,wet,1075,1092,Japanese Grand Prix,2022-10-09
+967,Partly cloudy,dry,1076,1093,United States Grand Prix,2022-10-23
+968,Partly cloudy,dry,1077,1094,Mexico City Grand Prix,2022-10-30
+969,Cloudy,dry,1078,1095,Brazilian Grand Prix,2022-11-13
+970,Clear,dry,1079,1096,Abu Dhabi Grand Prix,2022-11-20
+971,Clear,dry,1080,1098,Bahrain Grand Prix,2023-03-05
+972,Clear,dry,1081,1099,Saudi Arabian Grand Prix,2023-03-19
+973,Sunny,dry,1082,1100,Australian Grand Prix,2023-04-02
+974,Partly cloudy,dry,1083,1101,Azerbaijan Grand Prix,2023-04-30
+975,Partly cloudy,dry,1084,1102,Miami Grand Prix,2023-05-07
