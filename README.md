@@ -47,3 +47,5 @@
 Все наши действия по проверке гипотез и созданию модели расположены в файле [main_project](https://github.com/pavleke/project-formula-1/blob/main/main_project.ipynb).
 
 Парсинг погоды разделен на две части: [parsing_weather_part_1](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_1.ipynb) и [parsing_weather_part_2](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_2.ipynb)
+
+Машинное обучение мы будем проводить в отдельной тетрадке (machine_learning)
