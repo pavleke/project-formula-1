@@ -44,4 +44,6 @@
 
 В ходе работы мы создали таблицу [working](https://github.com/pavleke/project-formula-1/blob/main/working.csv), в которой собрана вся информация, необходимая для проверки гипотез и создания модели.
 
-Все наши действия по проверке гипотез и созданию модели расположены в файле main_project.
+Все наши действия по проверке гипотез и созданию модели расположены в файле [main_project](https://github.com/pavleke/project-formula-1/blob/main/main_project.ipynb).
+
+Парсинг погоды разделен на две части: [parsing_weather_part_1](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_1.ipynb) и [parsing_weather_part_2](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_2.ipynb)
