@@ -48,4 +48,4 @@
 
 Парсинг погоды разделен на две части: [parsing_weather_part_1](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_1.ipynb) и [parsing_weather_part_2](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_2.ipynb)
 
-Машинное обучение мы будем проводить в отдельной тетрадке [machine_learning](https://github.com/pavleke/project-formula-1/blob/main/main_project.ipynb)
+Машинное обучение мы будем проводить в отдельной тетрадке [machine_learning](https://github.com/pavleke/project-formula-1/blob/main/machine_learning.ipynb)
