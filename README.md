@@ -6,7 +6,7 @@
 
 Перечислим описание всех таблиц, которые использовались в проекте, и которые были добавлены после парсинга.
 
-*Все таблицы добавлены в ветку all_tables
+*Все таблицы добавлены в ветку all_tables*
 
 В таблице [status](https://github.com/pavleke/project-formula-1/blob/all_tables/status.csv) находится информация о статусе окончания гонки (финишировал ли пилот или по каким-то причинам не смог этого сделать).
 
@@ -46,8 +46,8 @@
 
 Все наши действия по проверке гипотез и созданию модели расположены в файле [main_project](https://github.com/pavleke/project-formula-1/blob/main/main_project.ipynb).
 
-Парсинг погоды разделен на две части: [parsing_weather_part_1](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_1.ipynb) и [parsing_weather_part_2](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_2.ipynb)
+Парсинг погоды разделен на две части: [parsing_weather_part_1](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_1.ipynb) и [parsing_weather_part_2](https://github.com/pavleke/project-formula-1/blob/main/parsing_weather_part_2.ipynb). В первом файле проводился парсинг для тех гонок, для которых информация о погоде была представлена в wikipedia на страницы гонки. Во втором файле проводился парсинг данных о погодных условиях для оставшихся гонок. 
 
-Парсинг времен гонщиков в квалификации проводился в файле [parsing_qualifying](https://github.com/pavleke/project-formula-1/blob/main/parsing_qualifying.ipynb)
+Парсинг времен гонщиков в квалификациях проводился в файле [parsing_qualifying](https://github.com/pavleke/project-formula-1/blob/main/parsing_qualifying.ipynb)
 
-Машинное обучение мы будем проводить в отдельной тетрадке [machine_learning](https://github.com/pavleke/project-formula-1/blob/main/machine_learning.ipynb)
+Машинное обучение мы проводили в отдельной тетрадке [machine_learning](https://github.com/pavleke/project-formula-1/blob/main/machine_learning.ipynb)
